@@ -1,0 +1,156 @@
+White
+Light-Gray
+Maroon
+Yellow
+Cyan
+Indigo
+Fuchsia
+Tan
+Blush
+Olive-Green
+Turquoise
+Dark-White
+Dark-Maroon
+Dark-Yellow
+Dark-Cyan
+Dark-Purple
+Light-Black
+Light-Maroon
+Light-Yellow
+Light-Cyan
+Light-Purple
+Vivid-Brown
+Vivid-Orange
+Vivid-Green
+Vivid-Purple
+Color
+Hue
+Gradient
+Spectrum
+Pure
+Faded Colors
+Autochrome
+Palette
+Warm Color Palette
+Colorful
+Spectral Color
+Vibrant
+Chroma
+Saturated
+Neon
+Complimentary-Colors
+Analogous-Colors
+Polychromatic-Colors
+Light
+Dark
+Tones of Black
+Light Blue Foreground
+Monochromatic
+Desaturated
+Cyanopsia
+Contrast
+High Contrast
+Color Model
+RGB
+HSV
+VGA
+HDR
+Adobe RGB
+YCbCr
+Technicolor
+Kodachrome
+Black
+Gray
+Red
+Lime
+Teal
+Purple
+Magenta
+Beige
+Scarlet
+Chartreuse
+Aqua
+Dark-Brown
+Dark-Red
+Dark-Lime
+Dark-Blue
+Dark-Magenta
+Light-Brown
+Light-Red
+Light-Lime
+Light-Blue
+Light-Magenta
+Vivid-Maroon
+Vivid-Yellow
+Vivid-Cyan
+Vivid-Magenta
+Colorized
+Tone
+Vibrance
+Pigment
+Purity
+Faded
+EnChroma
+Color Palette
+Cool Color Palette
+Multicolored
+Glowing
+Dichromatism
+High Saturation
+Electric Colors
+Split-Complementary-Colors
+Triadic-Colors
+Tonal Colors
+Light Mode
+Dark Mode
+Tones of Black in Background
+Monochrome
+Sepia
+Low Contrast
+scRGB
+HSL
+EGA
+sRGB
+ProPhoto RGB
+YPbPr
+Kinemacolor
+Cinecolor
+Brown
+Dark-Gray
+Orange
+Green
+Blue
+Violet
+Pink
+Fire
+Azure
+Dark-Orange
+Dark-Green
+Dark-Pink
+Light-Orange
+Light-Green
+Light-Pink
+Vivid-Red
+Vivid-Lime
+Vivid-Blue
+Vivid-Pink
+Color Wheel
+Value
+Vivid
+Variegated
+Inverted Colors
+Rainbow
+Tetrachromacy
+Low Saturation
+Supplementary-Colors
+Tetradic-Colors
+Light Blue Background
+Black and White
+CMYK
+HCL
+CGA
+DCI-P3
+Pantone
+Coloroid
+Agfacolor
+Laser

@@ -1,0 +1,132 @@
+Spotlight
+Frontlight
+Rim Lights
+Strobe
+Flickering Light
+Flash-Lamp
+Dim
+Bright
+Crepuscular Rays
+Artificial Lighting
+Sunlight
+Sunbeams
+Incandescent
+Fluorescent
+CFL
+Candlelight
+Northern Lights
+Plasma Globe
+Tesla Coil
+Glow Stick
+Laser
+Dye-Laser
+Gobo
+Halogen
+Neon Lamp
+Argon Lamp
+Helium Lamp
+Argand Lamp
+Gas Lamp
+Tilley Lamp
+Mercury-Vapor Lamp
+Sulfur Lamp
+Lantern
+Flare
+Edison Bulb
+Vacuum Tube Lamp
+Nightlight
+Optical Fiber
+Infrared
+X-Ray
+Nightclub
+Glowing Radioactivity
+7 Segment Display
+Moody Lighting
+Soft Lighting
+Volumetric
+Rembrandt Lighting
+Nightclub Lighting
+Light Pollution
+Global Illumination
+Ray Tracing Global Illumination
+Shadow
+Floodlight
+Halfrear Lighting
+Rim Lighting
+Strobe Light
+Bubble Light
+Flashtube
+Dim Lighting
+Ultrabright
+Rays of Shimmering Light
+Natural Lighting
+Direct Sunlight
+Moonbeams
+Incandescent Lamp
+Fluorescent Lamp
+CFL Light
+Torch
+
+Plasma Lamp
+Electric Arc
+Blacklight
+Laser Light Show
+Ion-Laser
+Gobo Light
+Halogen Lamp
+Xenon Lamp
+Argon Flash
+Carbide Lamp
+Diya Lamp
+Gas Mantle
+Oil Lamp
+Metal-Halide Lamp
+Hollow-Cathode Lamp
+Schwarz Lantern
+Ember Light
+Nixie Tube
+Geissler Tube
+Christmas Lights
+Electroluminescent Wire
+Ultraviolet
+Lightspeed
+Nuclear Waste
+Dot Matrix Display
+Cinematic Lighting
+Hard Lighting
+Volumetric Lighting
+Split Lighting
+Concert Lighting
+Lumen Global Illumination
+Shadows
+
+Backlight
+Marquee
+Stroboscope
+Dark Lighting
+Blinding Light
+Sunshine Ray
+Starlight
+Torch Light
+Lava Lamp
+Crackle Tube
+Gas-Laser
+Krypton Lamp
+Arc Lamp
+Kerosene Lamp
+Sodium-Vapor Lamp
+Electrodeless Lamp
+Coleman Lantern
+Rubens-Tube
+Dekatron
+Electromagnetic Spectrum
+UV
+Glowing Nuclear Waste
+Electroluminescent Display
+Studio Lighting
+Accent Lighting
+Contre-Jour
+Beautiful Lighting
+Museum Lighting
+Screen Space Global Illumination
+Ray Traced Shadows

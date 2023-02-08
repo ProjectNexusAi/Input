@@ -1,0 +1,474 @@
+Wooden
+Plywood
+Lumber
+Cork
+Wood Veneer
+Oak-Wood
+Pine-Wood
+Cedar-Wood
+Fiber-Reinforced Composite
+Cardboard
+Cardstock
+Tracing Paper
+Tissue Paper
+Tissue
+Wove Paper
+Washi
+Papyrus
+Manuscript Paper
+Wrapping Paper
+Toilet Paper
+Manila Paper
+Security Paper
+Hemp Fiber
+Plastic-Coated Paper
+Greaseproof Paper
+Soil
+Mud
+Sand
+Sandpaper
+Kaolinite
+Stone
+Rock
+Sandstone
+Marble
+Granite
+Coal
+Slate
+Quartzite
+Chert
+Carbon Fiber
+Concrete
+Asphalt
+Brick
+Ceramic
+Sheetrock
+Vermiculite
+Meteorite
+Iron Meteorite
+IIAB Meteorite
+Achondrite Meteorite
+Mesosiderite Meteorite
+Fluorescent Dugway Geode
+Metallic
+Foil
+Pewter
+Aluminum
+Bronze
+Iron
+Steel
+Titanium
+Silver
+Tarnished Silver
+Gold
+Platinum
+Chromium
+Bismuth
+Liquid Bismuth
+Mercury
+Molten Mercury
+Gallium
+Indium
+Magnesium
+Lead
+Zirconium
+Sodium
+Constantan
+Iron Filings
+Solder
+Chain
+Barbwire
+Fence
+Glassy
+Seaglass
+Mirror
+Fiberglass
+Glass and Crystals
+Diamond
+Quartz
+Rose Quartz
+Ruby
+Pearl
+Lapis Lazuli
+Jasper
+Topaz
+Ametrine
+Talc
+Moganite
+Marcasite
+Cuprite
+Sphalerite
+Chrysoprase
+Jewelry
+Cloth
+Twine
+Silk
+Denim
+Leather
+Linen
+Microfiber
+Nylon
+Kevlar
+Cordura
+Rolag
+Swanskin Cloth
+Jute Cloth
+Quilt
+Lint
+Rug
+Persian Rug
+Yarn
+Cross Stich
+Applique
+Patch
+Weave
+Net
+Spider Web
+Plastic
+Shrink Wrap
+Polyurethane
+Polypropylene
+Styrofoam
+Rubber
+Vinyl
+Arborite
+Gel
+Silica Gel
+Gelatinous
+Wax
+Carnauba Wax
+Ice
+Snow
+Hair
+Hairstyle
+Fur
+Fuzz
+Feathers
+Beard
+Bear Fur
+Dust-Bunny
+Amber
+Fibrin
+Inlay
+Googly Eyes
+Pellets
+Celluloid
+Liquid
+Water
+Lava
+Molten
+Ferro Fluid
+Gasoline
+Danish Oil
+Sea Foam
+Slime
+Putty
+Tape
+Duct Tape
+Kapton
+Gaffer Tape
+Adhesive
+Epoxy
+Non-Newtonian Fluid
+Polymer
+Play-Doh
+Vapor
+Clouds
+Powder
+Plasma
+Electric
+Fire
+Flame
+Burn
+Explosion
+
+Particle-Board
+Planks
+Sawdust
+Spalting
+Maple-Wood
+Cherry-Wood
+Wood-Stain
+Containerboard
+Corrugated Fiberboard
+Paper
+Glassine
+Graph Paper
+Tissues
+Ingres Paper
+Wasli
+Ancient Egyptian Papyri
+Medieval Parchment
+Parchment
+Paper Towel
+Manila Folder
+Rolling Paper
+Hemp Paper
+Tar Paper
+Seed Paper
+Dirt
+Mud Brick
+Gravel
+Podzol
+Cobblestone
+Rocky
+Basalt
+Gypsum
+Diorite
+Sulfur
+Limestone
+Travertine
+Fulgurite
+Graphene
+Hempcrete
+Road
+Terracotta
+Enamel
+Plaster
+Perlite
+Hexahedrite
+Stony-Iron Meteorite
+IIE Iron Meteorite
+Chondrite Meteorite
+Lodranite Meteorite
+Metal
+Rusty
+Copper
+Brushed Aluminum
+Brass
+Wrought Iron
+Stainless Steel
+Anodized Titanium
+Sterling Silver
+Rose-Gold
+Chrome
+Bismuth Crystals
+Melted Bismuth
+Mercury Metal
+Molten Mercury Metal
+Melted Gallium
+Melted Indium
+Zinc
+Tungsten
+Cubic Zirconium
+Potassium
+Hepatizon
+Copper-Sulfate
+Metallic Fiber
+Chain-Link
+Chicken Wire
+Stained Glass
+Obsidian
+Mirrored
+Glass Fiber
+Crystalline
+Herkimer Diamond
+Smoky Quartz
+Rutilated Quartz
+Sapphire
+Citrine
+Onyx
+Opal
+Agate
+Aventurine
+Talcum powder
+Stibnite
+Calomel
+Aqeeq
+Orpiment
+Chalcedony
+Colloidal Crystal
+Cotton
+Cashmere
+Satin
+Khaki
+Felt
+Velvet
+Fibers
+Polyamide
+Rayon
+Lurex
+Roving
+Tansukh Cloth
+Barkcloth
+Blanket
+Cushion
+Carpet
+Qom Rug
+Knitted
+Needle Point
+Lace
+Sewing
+Weaving
+Netting
+Polyimide
+Plastic Wrap
+Polyethylene
+Teflon
+Foam
+Latex
+Silicone
+Formica
+Aerogel
+Ballistic Gel
+Sponge
+Wax Paper
+Candelilla Wax
+Blue-Ice
+Snowflake
+Hairy
+Afro
+Furry
+Fuzzy
+Feathery
+Mustache
+Cow Fur
+Ivory
+Collagen
+Trash
+Filament
+Fluidity
+Liquid Crystal
+Magma
+Varnish
+Motor Oil
+Turpentine
+Linseed Oil
+Emulsion
+Flubber
+Poster Tack
+Scotch Tape
+Packing Tape
+Kapton Tape
+Twill Tape
+Glue
+Paste
+Orbeez
+Plastisol
+Vaporized
+Fog
+Smoke
+Energy
+Electrical
+Fireball
+Flamethrower
+Inferno
+Firework
+
+Hardboard
+Wooden Planks
+Nailed-Wood
+Petrified Wood
+Acacia-Wood
+Birch-Wood
+Wooden Fence
+Paperboard
+Construction Paper
+Post-it Note
+Kraft Paper
+Lokta Paper
+Vellum
+Parchment Paper
+Envelope
+Cotton Paper
+Cellulose
+Clay
+Dust
+Silt
+Spodosol
+Pebbles
+Bedrock
+Flint
+Borax
+Andesite
+Slag
+Sodalime
+Minium
+Geyserite
+Carbon Nanotubes
+Sidewalk
+Stone Tablet
+Pottery
+Tile
+Asbestos
+Fossil
+Octahedrite
+Iron Meteorite
+Gujba Meteorite
+Chondrule Meteorite
+Pallasite Meteorite
+Liquid Metal
+Tarnish
+Tin
+Tarnished Brass
+Damascus
+Damascus Steel
+Damascus Titanium
+Sterling
+Tarnished Gold
+Cobalt
+Uranium
+Nichrome
+Metal Foam
+Armature Wire
+Chain-Link Fence
+Stained Glass Windows
+Hall of Mirrors
+Borax Crystals
+Amethyst
+Milky Quartz
+Sceptred Quartz
+Emerald
+Fluorite
+Selenite
+Opalite
+Carnelian
+Tridymite
+Cristobalite
+Realgar
+Lechatelierite
+Prasiolite
+Polyester
+Felt Cloth
+Corduroy
+Memory Foam
+Spandex
+Lyocell
+Nomex
+Lurex
+Pillow
+Pin Cushion
+Crochet
+Embroidery
+Macrame
+Sewen
+Quilling
+Lego
+Cling Wrap
+Polyvinyl
+Melamine
+Bubble Wrap
+Nitrile
+Linoleum
+Sandarac
+Softgel
+Ballistic Foam
+Spongy
+Shellac
+Paraffin Wax
+Dry Ice
+Mohawk
+Bone
+Molten Rock
+Oil
+Mineral Oil
+Tung Oil
+Clear Tape
+Masking Tape
+Double-Sided Tape
+Caution Tape
+Double-Sided Glue
+Oobleck
+Mist
+Electricity
+Ember

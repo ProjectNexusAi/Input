@@ -1,0 +1,37 @@
+Top-View
+Aerial View
+Closeup
+Centered-Shot
+First-Person
+Third-Person
+Low Angle
+Perspective
+Orthographic
+Miniature Faking
+Accelerated Perspective
+Forced Perspective
+Anamorphosis
+Side-View
+View From an Airplane
+Closeup-View
+Selfie
+First-Person View
+Third-Person View
+High Angle
+Panini Projection
+Isometric
+Brenizer Method
+Linear Perspective
+Aerial Perspective
+Side-View
+View From an Airplane
+Closeup-View
+Selfie
+First-Person View
+Third-Person View
+High Angle
+Panini Projection
+Isometric
+Brenizer Method
+Linear Perspective
+Aerial Perspective

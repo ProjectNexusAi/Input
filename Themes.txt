@@ -1,0 +1,673 @@
+Akira
+Code Geass
+Detective Conan
+Fullmetal Alchemist
+Gurren Lagann
+Hunter_x_Hunter
+Jujutsu Kaisen
+Mob Psycho 100
+Pokemon
+One Piece
+Spirited Away
+Vinland Saga
+Teletubbies
+Rick and Morty
+Adventure Time
+Star Trek
+Movie
+Fantasia
+Tron
+Saw
+Godzilla
+Attack on Titan
+Cowboy Bebop
+Dr Stone
+Gintama
+Haikyu
+Inuyasha
+Kimetsu no Yaiba (Demon Slayer)
+My Hero Academia
+Pokémon
+Ruroni Kenshin
+Steins Gate
+
+Simpsons
+In The Style of Tron
+Bakuman
+Death Note
+Dragon Ball Z
+Great Teacher Onizuka
+Hajime no Ippo
+Jojos Bizzare Adventures
+Koe no Katachi
+Naruto
+
+Sword Art Online
+Family Guy
+Realistic
+Photorealistic
+Realism
+Classical Realism
+Surreal
+Non-Fiction
+Imagined
+Dreamlike
+Dreampunk
+Dreamcore
+Worldly
+From Another Realm
+Lucid
+Anemoiacore
+Abstract
+Fantasy
+Fantasy Map
+Illusion
+Immaterial
+Retro
+Nostalgiacore
+Vintage
+Cyberpunk
+Atompunk
+Raypunk
+Rustic
+Pre-Historic
+Jurassic
+Modern
+Futuristic
+Retro-Futurism
+Sci-fi
+Terrestrial
+Invaded
+Aurora
+Magic
+Mystic
+Psychic
+UFO
+Aetherpunk
+Dracopunk
+Fairycore
+Angelcore
+Cryptidcore
+Cypernoir
+Witchcore
+Mythpunk
+Illuminati
+Spacecore
+Stellar
+Galaxy
+Outer Space
+Starry
+Constellation
+Nebula
+Vela Pulsar
+Magnetar
+Solar Eclipse
+Antimatter
+Orbital
+Planet
+Planet Mercury
+Planet Venus
+Earth
+Mars
+Jupiter
+Saturn
+Uranus
+Neptune
+Pluto
+Sun
+Country
+American-Style
+Canadian-Style
+Europunk
+Brazilian-Style
+Incan
+Mexican-Style
+African-Style
+Mali
+Australian-Style
+Spanish-Style
+French-Style
+Italian-Style
+Turkish-Style
+British-Style
+German-Style
+Greek-Style
+Greek Mythology
+Polish-Style
+Hungarian-Style
+Swiss-Style
+Swedish-Style
+Irish-Style
+Roman-Style
+Roman Mythology
+Dominican-Style
+Chinese-Style
+Tang Dynasty
+Japanese
+Japanese-Style
+Ukrainian-Style
+Indonesian-Style
+Balinese
+Thai
+Indian-Style
+Bavarian
+Minoan
+Puebloan
+Russian-Style
+Propaganda
+Arabic
+Egyptian Art
+Nordic Mythology
+Byzantine
+Christian Icon
+Urban
+Rural
+Adventurecore
+Farmcore
+Tavernwave
+Hermitpunk
+Room
+Hotel Room
+Labyrinth
+Living Room
+Den
+Dining Room
+Bedroom
+Hallway
+Greenhouse
+Conservatory
+Study
+Office
+Attic
+Basement
+Rooftop
+Storage Room
+Laundry Room
+Garage
+Porch
+Game Room
+Nursery
+Cityscape
+Structure
+Bronzepunk
+Steampunk
+Salvagepunk
+Swordpunk
+Brutalism
+Industrial Design
+Shack
+Playground
+Labcore
+Machine
+Robotic
+Legopunk
+Tinkercore
+Stimwave
+Barbiecore
+Palewave
+Bombacore
+Dollpunk
+Biome
+Setting
+Woodland
+Coniferous Forest
+Jungle
+Scrubland
+Thicket
+Plains
+Grassland
+Prairie
+Valley
+Grove
+Swamp
+Marsh
+Muskeg
+Tundra
+Desert
+Savanna
+Beach
+Ocean
+Pond
+River
+Coral Reef
+Estuary
+Canyon
+Crag
+Nature
+Atmosphere
+Bloom
+Mosscore
+Earthcore
+Garden
+Biopunk
+Icepunk
+Creature
+Crowcore
+Islandpunk
+Underwater
+Anthropomorphic
+Solarpunk
+Seasons
+Autumn
+Weather
+Breeze
+Rain
+Sleet
+Lightning
+Lightningwave
+Hurricane
+Storm
+Sandstorm
+Heat
+Tsunami
+Frozen-in-Time Photograph
+Holiday
+Christmas
+Halloween
+Boss
+Police
+Samurai
+Artist
+Clownpunk
+Viking
+Goblin
+Quarterback
+Catholicpunk
+Poetcore
+Kingcore
+Royalcore
+Roguecore
+Kidcore
+Brocore
+Morning
+Noon
+Dusk
+Midnight
+Sport
+Basketball
+Soccer
+Golf
+Tennis
+Hockey
+Volleyball
+Rugby
+Skydiving
+Music
+Funky
+Punk
+Rave
+Vaporwave
+Hypnagogic Pop
+Tenwave
+Cargopunk
+Shpongle
+Cartoon
+Anime
+Kawaii
+Crystalcore
+Rainbowcore
+Glowwave
+Lightcore
+Fractalpunk
+Warmcore
+Happycore
+Gloomcore
+Dazecore
+Gourmet
+Cleancore
+Academia
+Tinycore
+Honeycore
+MLG
+Cuberpunk
+Hyperrealistic
+Photorealism
+Magic Realism
+New Realism
+Surrealism
+Fiction
+Imaginative
+Dreamy
+Daydreampunk
+Weirdcore
+Otherworldly
+Wonderland
+Ethereal
+Déjà vu
+Abstraction
+Ethereal Fantasy
+
+Impossible
+Intangible
+Retrowave
+Nostalgia
+Antique
+Postcyberpunk
+Nanopunk
+Rollerwave
+Rusticcore
+Historic
+Ice Age
+Modernismo
+Futurism
+Cassette Futurism
+Alchemy
+Extraterrestrial
+Invasion
+Aurorae
+Magical
+Mystical
+Metaphysical
+Lightsaber
+Decopunk
+Dragoncore
+Fairy Folk
+Supernatural
+Ghostcore
+Goblincore
+Wizardcore
+Cosmic
+Interstellar
+Galactic
+Universe
+Neutron Star
+Supernova
+Quasar
+Blackhole
+Eclipse
+Dark Matter
+NASA
+Planets
+Planet Earth
+Planet Mars
+Planet Jupiter
+Planet Saturn
+Planet Uranus
+Planet Neptune
+Planet Pluto
+Asteroid
+Nation
+American Realism
+Canadian Realism
+Brazilian Realism
+Tiwanaku
+Mexican Realism
+African Realism
+Benin
+Australian Realism
+Spanish Realism
+French Realism
+Italian Realism
+Turkish Realism
+British Realism
+German Realism
+Greek Realism
+Greek God
+Polish Realism
+Hungarian Realism
+Swiss Realism
+Swedish Realism
+Irish Realism
+Roman Realism
+Roman God
+Dominican Realism
+Chinese Realism
+Timurid
+Taisho Period
+Japanese Realism
+Ukrainian Realism
+Indonesian Realism
+Tibetan
+Bagan
+Indian Realism
+Cycladic
+Armenian
+Russian Realism
+American Propaganda
+Caribbean
+Socialist Realism
+Byzantine Icon
+Urbancore
+Ruralcore
+Hikecore
+Countrycore
+Cabincore
+Inside
+Apartment
+Lounge
+Front Room
+Kitchen
+Guest Room
+Passageway
+Atrium
+Sun-Room
+Library
+Home-Office
+Crawlspace
+Cellar
+Underground
+Closet
+Utility Room
+Shed
+Balcony
+Home Theater
+Prayer Room
+Architecture
+Structural
+Steelpunk
+Dieselpunk
+Silkpunk
+Cassettepunk
+Sphinx
+Googie
+Property
+Poolcore
+Nuclear
+Submachine
+Cyborgism
+Legogearpunk
+Craftcore
+Wormcore
+Dollcore
+Normcore
+Thriftcore
+Landscape
+Settings
+Forest
+Deciduous Forest
+Junglecore
+Shrubland
+Orchard
+Meadow
+Rangeland
+Steppe
+Foothills
+Mangrove
+Bayou
+Wetland
+Fen
+Glacier
+Desertwave
+Dryland
+Sea
+Ocean Grunge
+Springs
+Lake
+Reefwave
+Floodplain
+Mountains
+Volcano
+Naturecore
+Environment
+Bloomcore
+Mushroomcore
+Organic
+Japanese Garden
+Forestpunk
+Frostpunk
+Frogcore
+Ravencore
+Seapunk
+Nautical
+Nautical Nonsense
+Lunarpunk
+Spring
+Winter
+Weathercore
+Wind
+Downpour
+Snow
+Lightning Bolt
+Thunderbolt
+Tornado
+Stormy
+Heatwave
+Flood
+Santa
+Master
+Samurai Warrior
+Clowncore
+Pilgrim
+Scoutcore
+Princecore
+Knightcore
+Villaincore
+Tweencore
+Midday
+Afternoon
+Night
+Twilight
+Sports
+Baseball
+Soccer Ball
+Golf Ball
+Tennis Ball
+Hockey Puck
+Rugby-Ball
+Musical
+Groovy
+Post-Punk
+Synthwave
+Hyperpop
+Bardcore
+In The Style of Shpongle
+Marvel Comics
+Animecore
+Sparklecore
+Pastelwave
+Glo-Fi
+Lovecore
+Smilecore
+Dullcore
+Sleepycore
+Safetycore
+Miniaturecore
+Jamcore
+Materialisimo
+Hyper Real
+
+Fantastic Realism
+Contemporary Realism
+Unrealistic
+Science Fiction
+Imagination
+Fever-Dream
+Unworldly
+Lyrical Abstraction
+Dark Fantasy
+Nonsense
+Rococopunk
+Prehistoricore
+Wild West
+Future Funk
+Afrofuturist
+Alien
+Auroracore
+Magicpunk
+Unicorncore
+Spriggancore
+Spiritcore
+Rangercore
+Magewave
+Celestial
+Interstellar Space
+Lunar
+Stellar Corona
+Hypernova
+Microquasar
+Wormhole
+Planetary
+Global
+German Romanticism
+Greek Icon
+Greek Goddess
+Roman Icon
+Roman Goddess
+Japonism
+Khmer
+Soviet Propaganda
+Mayan
+Urban Exploration
+Prairiecore
+Villagecore
+Cottagecore
+Outside
+Bathroom
+Wine-Cellar
+Mud-Room
+Gym Room
+Balinese Architecture
+Clockpunk
+Gadgetpunk
+Sandalpunk
+Formicapunk
+Ziggurat
+Company
+Sanriocore
+Surroundings
+Rainforest
+Tropical
+Heathland
+Chaparral
+Pasture
+Bog
+Arctic
+Dunes
+Deep Sea
+Waterfall
+Kelp Forest
+Hot Springs
+Elevation
+Cave
+Botanical
+Ozone
+Flowercore
+Lush
+Groundcore
+Stonepunk
+Paleocore
+Selkiecore
+Wetcore
+Summer
+Overcast
+Hail
+Microburst
+Eruption
+Flooded
+Elf
+Princesscore
+Grandparentcore
+Day
+Dawn
+Football
+Musical Notation
+Disco
+Folk Punk
+Chillwave
+K-Pop
+Breakcore
+Manga
+Pastelpunk
+Neonpunk
+Miniature World
+Slimepunk
