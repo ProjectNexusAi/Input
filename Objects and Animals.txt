@@ -1,285 +1,327 @@
 Food
- Abraham Lincoln
- Adele
- Aftershave
- Albert Einstein
- Alligator
- Anderson Cooper
- Angelina Jolie
- Anteater
- Aristotle
- Armadillo
- Baboon
- Bach
- Backpack
- Badger
- Barack Obama
- Bat
- Bear
- Bed
- Beethoven
- Belt
- Beyoncé
- Bicycle
- Bill O'Reilly
- Blanket
- Blush
- Bob Dylan
- Body wash
- Book
- Bracelet
- Brad Pitt
- Bradley Cooper
- Broom
- Bruce Springsteen
- Buffalo
- Car
- Caribou
- Cat
- Chair
- Charles Darwin
- Chimpanzee
- Chipmunk
- Chris Evans
- Chris Hemsworth
- Clam
- Clock
- Coat
- Cologne
- Comb
- Comforter
- Computer
- Conan O'Brien
- Condoms
- Confucius
- Coyote
- Crab
- Crocodile
- Crow
- Curtains
- Cutlery
- Dana Bash
- Daniel Radcliffe
- Deer
- Deodorant
- Detergent
- Dish
- Disinfectant spray
- Dog
- Dolphin
- Don Lemon
- Dress
- Dustpan
- Eagle
- Earrings
- Elephant
- Elk
- Ellen DeGeneres
- Elvis Presley
- Emma Stone
- Emma Watson
- Eye shadow
- Falcon
- Ferret
- Flamingo
- Flashlight
- Flying squirrel
- Fox
- Franklin D
- Freddie Mercury
- Galileo Galilei
- George Clooney
- George Washington
- Gibbon
- Giraffe
- Glass
-Snorlax
- Gloves
- Gorilla
- Guinea pig
- Hair dye
- Hair gel
- Hair spray
- Hairbrush
- Hamster
- Hand sanitizer
- Hare
- Hat
- Hawk
- Hippopotamus
- Horse
- Howard Stern
- Isaac Newton
- Jake Tapper
- Jeans
- Jellyfish
- Jennifer Aniston
- Jennifer Lopez
- Jim Acosta
- Jimmy Fallon
- Jimmy Kimmel
- John F
- John Oliver
- Johnny Depp
- Julius Caesar
- Kangaroo
- Kate Middleton
- Key
- Kim Kardashian
- Koala
- Kylie Jenner
- Lamp
- Lemming
- Lemur
- Leonardo da Vinci
- Lion
- Lip balm
- Lipstick
- Lizard
- Lobster
- Lotion
- Macaw
- Madonna
- Mahatma Gandhi
- Makeup
- Marie Curie
- Marilyn Monroe
- Marmot
- Martin Luther
- Martin Luther King Jr
- Mascara
- Matt Damon
- Megyn Kelly
- Meryl Streep
- Michael Jackson
- Michelangelo
- Mirror
- Mole
- Moose
- Mop
- Mother Teresa
- Mouse
- Mozart
- Mug
- Nail clippers
- Nail polish
- Necklace
- Nelson Mandela
- Nikola Tesla
- Octopus
- Opossum
- Oprah Winfrey
- Orangutan
- Otter
- Owl
- Oyster
- Pablo Picasso
- Pads
- Panda
- Paper towels
- Parrot
- Peacock
- Pelican
- Pen
- Perfume
- Phone
- Picture frame
- Pigeon
- Pillow
- Plate
- Plato
- Polar bear
- Porpoise
- Prince
- Prince Charles
- Prince George
- Prince Harry
- Prince Louis
- Prince William
- Princess Charlotte
- Princess Diana
- Purse
- Queen Elizabeth II
- Rabbit
- Raccoon
- Rachel Maddow
- Rat
- Razor
- Razor blade
- Rembrandt
- Rhinoceros
- Rihanna
- Ring
- Robert Downey Jr
- Rug
- Rupert Grint
- Rush Limbaugh
- Ryan Reynolds
- Salvador Dali
- Sandra Bullock
- Scarf
- Scarlett Johansson
- Scissors
- Sea lion
- Seagull
- Seal
- Sean Hannity
- Shampoo
- Shaving cream
- Sheets
- Shepard Smith
- Shoes
- Shrimp
- Skirt
- Skunk
- Snake
- Soap
- Socks
- Socrates
- Sofa
- Sponge
- Squid
- Squirrel
- Starfish
- Stephen Colbert
- Stephen Hawking
- Suit
- Sunglasses
- Sunscreen
- Swan
- Table
- Tampons
- Taylor Swift
- Television
- The Beatles
- Tiger
- Tissues
- Toilet paper
- Tom Cruise
- Toothbrush
- Tote bag
- Towel
- Trash bags
- Trash can
- Trevor Noah
- T-shirt
- Tucker Carlson
- Turtle
- Umbrella
- Underwear
- Vacuum cleaner
- Vase
- Vincent van Gogh
- Wallet
- Walrus
- Watch
- Whale
- William Shakespeare
- Winston Churchill
- Wolf
- Wolf Blitzer
- Zebra
-a
+Abraham Lincoln
+Adele
+Aftershave
+Albert Einstein
+Alligator
+Anderson Cooper
+Angelina Jolie
+Anteater
+Aristotle
+Armadillo
+Baboon
+Bach
+Backpack
+Badger
+Barack Obama
+Bat
+Bear
+Bed
+Beethoven
+Belt
+Beyoncé
+Bicycle
+Blanket
+Blush
+BMW 3-Series
+Bob Dylan
+Body wash
+Book
+Bracelet
+Brad Pitt
+Bradley Cooper
+Broom
+Bruce Springsteen
+Buffalo
+Car
+Caribou
+Cat
+Chair
+Charles Darwin
+Chevrolet Cruze
+Chevrolet Equinox
+Chevrolet Impala
+Chevrolet Silverado
+Chevrolet Tahoe
+Chevrolet Traverse
+Chimpanzee
+Chipmunk
+Chris Evans
+Chris Hemsworth
+Clam
+Clock
+Coat
+Cologne
+Comb
+Comforter
+Computer
+Conan O'Brien
+Condoms
+Confucius
+Coyote
+Crab
+Crocodile
+Crow
+Curtains
+Cutlery
+Daniel Radcliffe
+Deer
+Deodorant
+Detergent
+Dish
+Disinfectant spray
+Dog
+Dolphin
+Dress
+Dustpan
+Eagle
+Earrings
+Elephant
+Elk
+Ellen DeGeneres
+Elvis Presley
+Emma Stone
+Emma Watson
+Eye shadow
+Falcon
+Ferret
+Flamingo
+Flashlight
+Flying squirrel
+Ford Escape
+Ford Explorer
+Ford F-150
+Ford Focus
+Fox
+Franklin D
+Freddie Mercury
+Galileo Galilei
+George Clooney
+George Washington
+Gibbon
+Giraffe
+Glass
+Gloves
+Gorilla
+Guinea pig
+Hair dye
+Hair gel
+Hair spray
+Hairbrush
+Hamster
+Hand sanitizer
+Hare
+Hat
+Hawk
+Hippopotamus
+Honda Accord
+Honda Civic
+Honda CR-V
+Honda HR-V
+Honda Odyssey
+Honda Pilot
+Horse
+Howard Stern
+Hyundai Elantra
+Hyundai Santa Fe
+Hyundai Sonata
+Isaac Newton
+Jake Tapper
+Jeans
+Jeep Cherokee
+Jeep Compass
+Jeep Grand Cherokee
+Jeep Wrangler
+Jellyfish
+Jennifer Aniston
+Jennifer Lopez
+Jim Acosta
+Jimmy Fallon
+Jimmy Kimmel
+John F
+John Oliver
+Johnny Depp
+Julius Caesar
+Kangaroo
+Kate Middleton
+Key
+Kia Optima
+Kia Sorento
+Kia Soul
+Kia Sportage
+Kim Kardashian
+Koala
+Kylie Jenner
+Lamp
+Lemming
+Lemur
+Leonardo da Vinci
+Lion
+Lip balm
+Lipstick
+Lizard
+Lobster
+Lotion
+Macaw
+Madonna
+Mahatma Gandhi
+Makeup
+Marilyn Monroe
+Marmot
+Martin Luther
+Martin Luther King Jr
+Mascara
+Matt Damon
+Mazda CX-5
+Mazda3
+Mazda6
+Meryl Streep
+Michael Jackson
+Michelangelo
+Mirror
+Mole
+Moose
+Mop
+Mother Teresa
+Mouse
+Mozart
+Mug
+Nail clippers
+Nail polish
+Necklace
+Nelson Mandela
+Nikola Tesla
+Nissan Altima
+Nissan Frontier
+Nissan Maxima
+Nissan Rogue
+Nissan Sentra
+Octopus
+Opossum
+Oprah Winfrey
+Orangutan
+Otter
+Owl
+Oyster
+Pablo Picasso
+Pads
+Panda
+Paper towels
+Parrot
+Peacock
+Pelican
+Pen
+Perfume
+Phone
+Picture frame
+Pigeon
+Pillow
+Plate
+Plato
+Polar bear
+Porpoise
+Prince
+Prince Charles
+Prince George
+Prince Harry
+Prince Louis
+Prince William
+Princess Charlotte
+Princess Diana
+Purse
+Queen Elizabeth II
+Rabbit
+Raccoon
+Rachel Maddow
+Ram 1500
+Rat
+Razor
+Razor blade
+Rembrandt
+Rhinoceros
+Rihanna
+Ring
+Robert Downey Jr
+Rug
+Rupert Grint
+Rush Limbaugh
+Ryan Reynolds
+Salvador Dali
+Sandra Bullock
+Scarf
+Scarlett Johansson
+Scissors
+Sea lion
+Seagull
+Seal
+Sean Hannity
+Shampoo
+Shaving cream
+Sheets
+Shepard Smith
+Shoes
+Shrimp
+Skirt
+Skunk
+Snake
+Soap
+Socks
+Socrates
+Sofa
+Sponge
+Squid
+Squirrel
+Starfish
+Stephen Colbert
+Stephen Hawking
+Subaru Forester
+Subaru Impreza
+Subaru Legacy
+Subaru Outback
+Suit
+Sunglasses
+Sunscreen
+Swan
+Table
+Taylor Swift
+Television
+The Beatles
+Tiger
+Tissues
+Toilet paper
+Tom Cruise
+Toothbrush
+Tote bag
+Towel
+Toyota Camry
+Toyota Corolla
+Toyota RAV4
+Toyota Sienna
+Toyota Tacoma
+Toyota Tundra
+Trash bags
+Trash can
+Trevor Noah
+T-shirt
+Tucker Carlson
+Turtle
+Umbrella
+Underwear
+Vacuum cleaner
+Vase
+Vincent van Gogh
+Volkswagen Atlas
+Volkswagen Jetta
+Volkswagen Tiguan
+Wallet
+Walrus
+Watch
+Whale
+William Shakespeare
+Winston Churchill
+Wolf
+Wolf Blitzer
+Zebra
 Aardvark
 Aardwolf
 ability
@@ -299,7 +341,6 @@ addition
 address
 Adele
 adult
-advance
 advantage
 advertising
 advice
@@ -346,7 +387,6 @@ Animal
 Animals
 Animals by number of neurons
 Animals by size
-annual
 answer
 Ant
 Anteater
@@ -359,7 +399,6 @@ anywhere
 apartment
 Ape
 Aphid
-appeal
 appearance
 apple
 application
@@ -375,20 +414,13 @@ Arrow crab
 article
 aside
 ask
-Asp
 aspect
-Ass (donkey)
 assist
-assistance
 assistant
 associate
-association
-assumption
 atmosphere
 Atom
 attack
-attempt
-attention
 attitude
 audience
 author
@@ -458,11 +490,8 @@ bend
 benefit
 bet
 Beyoncé
-beyond
 bicycle
-Bicycle
 Bicycle with sidecar
-bid
 big
 bike
 bill
@@ -470,7 +499,6 @@ Bird
 birth
 birthday
 Bison
-bit
 bite
 bitter
 black
@@ -483,7 +511,6 @@ Blimp
 blind
 Blobject
 block
-blood
 blow
 blue
 Blue bird
@@ -501,7 +528,6 @@ body
 bone
 Bonobo
 bonus
-Booby
 book
 boot
 border
@@ -544,7 +570,6 @@ bunch
 Bunsen Burner
 burn
 bus
-Bus
 business
 Butter
 Butterfly
@@ -582,7 +607,6 @@ Cape buffalo
 capital
 Capybara
 Car
-Car
 Caramel
 card
 Cardinal
@@ -607,7 +631,6 @@ Caulastraea-Furcata
 Cauliflower
 cause
 CD
-celebration
 cell
 Cells
 Cellular
@@ -658,8 +681,6 @@ cigarette
 Cinnamon
 city
 City bus
-claim
-Clam
 class
 classic
 classroom
@@ -694,9 +715,7 @@ combine
 comfort
 comfortable
 command
-comment
 commercial
-commission
 common
 Common household pests
 Common names of poisonous animals
@@ -704,7 +723,6 @@ communication
 community
 Commuter rail
 company
-comparison
 competition
 complex
 Computer
@@ -715,23 +733,18 @@ concert
 Concrete mixer
 condition
 Condor
-conference
-confidence
 conflict
 confusion
 connection
 consequence
 consideration
-consist
 constant
 Constrictor
 construction
 contact
 contest
-context
 contract
 control
-convert
 Convertible
 cook
 cookie
@@ -749,7 +762,6 @@ Cougar
 count
 counter
 country
-county
 Coupe
 couple
 courage
@@ -762,7 +774,6 @@ Coyote
 Crab
 crack
 craft
-Crane
 Crane
 Crane fly
 crash
@@ -784,7 +795,6 @@ cry
 Cuckoo
 culture
 cup
-Skeleton
 currency
 current
 curve
@@ -808,7 +818,6 @@ day
 dead
 deal
 dealer
-dear
 death
 debate
 debt
@@ -818,7 +827,6 @@ Deep-Fried
 Deer
 definition
 degree
-delay
 delivery
 demand
 department
@@ -885,13 +893,12 @@ Domestic silkmoth
 Domestic silver fox
 Domestic turkey
 Dominoes
-Donkey
+donkey
 Doodad
 door
 Dormouse
 dot
 double
-doubt
 Dove
 draft
 drag
@@ -912,9 +919,7 @@ drop
 drunk
 Duck
 Duck breeds
-due
 dump
-Dump truck
 Dump truck
 Dung beetle
 dust
@@ -1096,7 +1101,6 @@ freedom
 friend
 friendship
 Frog
-front
 Fruit
 Fruit bat
 Fruit-Tart
@@ -1187,7 +1191,6 @@ Guan
 Guanaco
 guarantee
 guard
-guess
 guidance
 guide
 Guinea Pig
@@ -1225,6 +1228,7 @@ head
 health
 hearing
 heart
+Heartbeat
 heat
 heavy
 Heavy rail
@@ -1248,7 +1252,6 @@ hire
 historian
 history
 hit
-hold
 hole
 holiday
 Holographic Versatile Disc
@@ -1264,7 +1267,6 @@ Horse
 hospital
 host
 Hot Air Balloon
-Hot air balloon
 Hotdog
 hotel
 hour
@@ -1302,7 +1304,6 @@ independent
 individual
 industry
 inflation
-influence
 information
 initial
 injury
@@ -1314,19 +1315,14 @@ instruction
 Instrument
 insurance
 Intercity bus
-interest
-internal
-international
 internet
 interview
 introduction
 investment
-invite
 iron
 Irukandji jellyfish
 island
 issue
-it
 item
 Items
 Jackal
@@ -1338,7 +1334,6 @@ Jelly
 Jellyfish
 Jigsaw
 job
-join
 joint
 joke
 judge
@@ -1353,7 +1348,6 @@ Kangaroo
 Kangaroo mouse
 Kangaroo rat
 Kayak
-keep
 Kelp
 Ketchup
 key
@@ -1439,7 +1433,6 @@ light
 Light rail
 Lilac
 Lily Pads
-limit
 Limousine
 Limpet
 Lincoln-Logs
@@ -1564,7 +1557,6 @@ minimum
 Mink
 Minnow
 minor
-Minotaur
 Minotaur
 minute
 mirror
@@ -1697,7 +1689,6 @@ outside
 oven
 Owl
 Ox
-pace
 pack
 package
 page
@@ -1740,7 +1731,6 @@ payment
 peace
 Peacock
 Peafowl
-Peafowl
 peak
 Peanut
 Peanut Butter
@@ -1773,7 +1763,6 @@ Phyllo
 physical
 physics
 Piano
-pick
 Pickup truck
 picture
 pie
@@ -1839,7 +1828,6 @@ Prairie dog
 Prawn
 Praying mantis
 preparation
-presence
 present
 presentation
 president
@@ -1909,7 +1897,6 @@ race
 radio
 rain
 Rainbow trout
-raise
 range
 Rat
 rate
@@ -1946,13 +1933,10 @@ Reindeer
 relation
 relationship
 relative
-release
-relief
 remote
 remove
 rent
 repair
-repeat
 replacement
 reply
 report
@@ -1961,8 +1945,6 @@ republic
 reputation
 request
 requirement
-research
-reserve
 resident
 resist
 resolution
@@ -1996,6 +1978,7 @@ risk
 river
 road
 Roadrunner
+Robot
 rock
 Rodent
 role
@@ -2098,7 +2081,6 @@ shame
 shape
 share
 Shark
-she
 Sheep
 Sheep breeds
 shelter
@@ -2119,7 +2101,6 @@ shot
 shoulder
 show
 shower
-Shrew
 Shrew
 Shrimp
 Siamese fighting fish
@@ -2143,6 +2124,8 @@ sister
 site
 situation
 size
+Skateboard
+Skeleton
 skill
 skin
 Skink
@@ -2164,6 +2147,7 @@ smoke
 Snail
 Snake
 Snipe
+Snorlax
 snow
 Snow leopard
 Snowflake
@@ -2289,7 +2273,6 @@ sun
 Sunglasses
 supermarket
 support
-
 surprise
 surround
 survey
@@ -2398,7 +2381,6 @@ trade
 tradition
 traffic
 train
-Train
 trainer
 training
 Transistor
@@ -2421,7 +2403,6 @@ Trolley bus
 trouble
 Trout
 truck
-Truck
 trust
 truth
 try
@@ -2446,7 +2427,6 @@ unique
 university
 upper
 upstairs
-Urial
 use
 user
 usual
@@ -2473,17 +2453,13 @@ Vinyl Record
 Viper
 virus
 visit
-visual
 voice
 Vole
 volume
 Vulture
 Wagon
 Wagyu
-wait
-wake
 walk
-wall
 Wallaby
 Walrus
 war
@@ -2563,7 +2539,6 @@ worth
 wrap
 Wren
 writer
-writing
 Xerinae
 X-ray fish
 Yacht
