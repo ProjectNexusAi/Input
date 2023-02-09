@@ -64,7 +64,6 @@ Prismatic
 Sparkly
 Glowing Neon
 Cherenkov Radiation
-
 Photoluminescence
 Electroluminescence
 Phosphorescence
