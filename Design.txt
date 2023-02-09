@@ -1,126 +1,151 @@
-Axis Lines
-Patterns
-Parametric Patterns
-Tiger Pattern
-Rorschach
-Rorschach
-Ideogram
-Graph
-Feynman Diagram
-Elegance
-Beauty
-Marvelous
-Luxurious
-Morphism
-Skeuomorphism
-Neumorphism
-Neomorphism
-Glassmorphism
-Claymorphism
-Cubism
-Synthetic Cubism
-Mechanistic Cubism
-Expressionism
-Figurative Expressionism
 Abstract Expressionism
+Academicism
+Acidic
+Acidwave
+Amate
+Anachronism
+Anti-Design
+Astral
+Axis Lines
+Baroque
+Basic
+Beauty
+Biomorphic
+Bling
+Blocky
+Cell Noise
+Chakra
+Chaotic
+Checkerboard
+Chromesthesia
+Classicism
+Claymorphism
+Cluttered
+Cockeyed
+Combination
+Combine
+Complex
+Compression
+Concepts-Color Synesthesia
+Confusing
+Cubism
+Cut
+Diffraction Patterns
+Divine
+Divisionism
+Drop Art
+Droste Effect
+Elegance
+Entropy
+Existential
+Existentialism
+Expressionism
+Extreme
+Fauvism
+Feynman Diagram
+Figurative Expressionism
+Figurativism
+Flat
+Flat Design
+Flat Shading
+Frasurbane
+Glassmorphism
+Gliophorus-Psittacinus
+Gothic
+Gradiant
+Graph
+Greeble
+Gustatory-Visual Synesthesia
+Halftone
+Hi-fi
+Hyperbolic
+Hyperdetailed
+Ideogram
+Incoherents
+Ineffable
+Intricate
+Intricate Surface Detail
+Karma
+Kerkythea
+Kolmogorov Complexity
+Lovecraftian
+Lowbrow
+Luxurious
+Mandelbulb
+Marvelous
+Mechanistic Cubism
+Medievalism
+Minimalist
+Misalignment
+Miserablism
+Modernism
+Molecular
+Morphism
+Multiplex
+Music-Temperature Synesthesia
+Music-Vision Synesthesia
+Naturalism
+Nebulous Art
 Neo
 Neo-Baroque
 Neo-Byzantine
-Neo-Rococo
 Neoclassicism
-Neoplasticism
+Neo-Concretism
 Neo-Dada
+Neo-Dadaism
 Neo-Futurism
+Neo-Impressionism
+Neomorphism
+Neoplasticism
+Neo-Rococo
 NeoSon
 Neo-Tokyo
-Neo-Concretism
-Neo-Impressionism
-Psychedelic
-Psychedelia
-Acidwave
-Teleidoscope
-Spirograph
-Hyperbolic
-Chakra
-Quantum
-Divine
-Ineffable
-Sacred
-Transcendent
-Astral
-Karma
-Mandelbulb
+Neumorphism
 Noise
-White Noise
-Cell Noise
-Synesthesia
-Chromesthesia
-Music-Vision Synesthesia
-Music-Temperature Synesthesia
-Concepts-Color Synesthesia
-Gustatory-Visual Synesthesia
-Pop-Art
-Warhol
-Fauvism
-Hi-fi
-Biomorphic
-Modernism
-Transautomatism
-Suprematism
-Spectralism
-Precisionism
-Classicism
-Miserablism
-Romanticism
-Academicism
-Rococo
-Gothic
-Baroque
-Naturalism
-Divisionism
-Anachronism
-Tonalism
-Symbolism
-Purism
-Drop Art
-Lowbrow
-Figurativism
-Neo-Dadaism
-Medievalism
-Nebulous Art
-Anti-Design
-Stuckism
-Frasurbane
-Triptych
-Silhouette
-Existential
-Incoherents
-Amate
-Existentialism
-Lovecraftian
-Seamless
-Combination
-Combine
-Cut
-Bling
-Blocky
-Patched
-Compression
-Misalignment
-Droste Effect
-Stabilimentum
-Precision
-Molecular
-Shockwave
-Zygomorphic
-Representation
-Rodilius
-Kerkythea
 Oilify
-Entropy
-Cockeyed
-Extreme
-Acidic
-Gliophorus-Psittacinus
+Ornate
+Parametric Patterns
+Patched
+Patterns
+Polka Dot
+Pop-Art
+Precision
+Precisionism
+Psychedelia
+Psychedelic
+Purism
+Quantum
+Representation
+Rococo
+Rodilius
+Romanticism
+Rorschach
+Rorschach
+Sacred
+Seamless
 Shade
-Gradiant
+Shockwave
+Silhouette
+Simplicity
+Skeuomorphism
+Spectralism
+Spirograph
+Stabilimentum
+Stuckism
+Suprematism
+Symbolism
+Synesthesia
+Synthetic Cubism
+Teleidoscope
+Tiger Pattern
+Tonalism
+Transautomatism
+Transcendent
+Trippy
+Triptych
+Ukiyo-e Flat Design
+Voronoi
+Warhol
+White Noise
+Zebra Pattern
+Zygomorphic
