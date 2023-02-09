@@ -671,3 +671,105 @@ Pastelpunk
 Neonpunk
 Miniature World
 Slimepunk
+Soccer
+Criquet
+ Dark Fantasy
+ Gothic
+ Medieval
+ Victorian
+ Baroque
+ Renaissance
+ Art Nouveau
+ Surrealism
+ Abstract Expressionism
+ Impressionism
+ Post-Impressionism
+ Pop Art
+ Minimalism
+ Futurism
+ Dadaism
+ Constructivism
+ Expressionism
+ Fauvism
+ Abstract Art
+ Op Art
+ Street Art
+ Urban Art
+ Street Photography
+ Landscape Photography
+ Portrait Photography
+ Wildlife Photography
+ Sports Photography
+ Nature Photography
+ Wildlife Illustration
+ Nature Illustration
+ Fantasy Illustration
+ Surreal Illustration
+ Fine Art
+ Modern Art
+ Contemporary Art
+ Abstract Photography
+ Macro Photography
+ Still Life Photography
+ Figurative Art
+ Realistic Art
+ Hyperrealistic Art
+ Magic Realism Art
+ Neo-Classicism
+ Folk Art
+ Ethnographic Art
+ Art Deco
+ Art Deco Architecture
+ Baroque Architecture
+ Gothic Architecture
+ Renaissance Architecture
+ Bauhaus Architecture
+ Futuristic Architecture
+ Brutalist Architecture
+ Minimalist Architecture
+ Modern Architecture
+ Contemporary Architecture
+ Nature Photography
+ Landscape Painting
+ Seascape Painting
+ Cityscape Painting
+ Abstract Painting
+ Action Painting
+ Neo-Expressionism
+ Neo-Pop Art
+ Neo-Surrealism
+ Neo-Abstract Art
+ Neo-Futurism
+ Art Brut
+ Lowbrow Art
+ Outsider Art
+ Art Therapy
+ Meditation Art
+ Mindfulness Art
+ Visionary Art
+ Spiritual Art
+ Folk Art
+ Tribal Art
+ Naive Art
+ Outsider Art
+ Outsider Photography
+ Psychogeography
+ Diorama
+ Stop-Motion Animation
+ Computer Animation
+ 2D Animation
+ 3D Animation
+ Motion Graphics
+ Visual Effects
+ Motion Design
+ Stop-Motion Photography
+ Experimental Film
+ Avant-Garde Film
+ Independent Film
+ Art House Film
+ Surreal Film
+ Abstract Film
+ Animated Film
+ Fantasy Film
+ Science Fiction Film
+ Horror Film
