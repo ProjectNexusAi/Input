@@ -1,474 +1,614 @@
-Wooden
-Plywood
-Lumber
-Cork
-Wood Veneer
-Oak-Wood
-Pine-Wood
-Cedar-Wood
-Fiber-Reinforced Composite
+ Achondrite Meteorite
+ Aluminum
+ Ametrine
+ Applique
+ Arborite
+ Asphalt
+ Barbwire
+ Bismuth
+ Brick
+ Bronze
+ Carbon Fiber
+ Cardboard
+ Cardstock
+ Carnauba Wax
+ Cedar-Wood
+ Ceramic
+ Chain
+ Chert
+ Chromium
+ Chrysoprase
+ Cloth
+ Coal
+ Concrete
+ Constantan
+ Cordura
+ Cork
+ Cross Stich
+ Cuprite
+ Denim
+ Diamond
+ Fence
+ Fiberglass
+ Fiber-Reinforced Composite
+ Fluorescent Dugway Geode
+ Foil
+ Fur
+ Gallium
+ Gel
+ Gelatinous
+ Glass and Crystals
+ Glassy
+ Gold
+ Granite
+ Greaseproof Paper
+ Hair
+ Hairstyle
+ Hemp Fiber
+ Ice
+ IIAB Meteorite
+ Indium
+ Iron
+ Iron Filings
+ Iron Meteorite
+ Jasper
+ Jewelry
+ Jute Cloth
+ Kaolinite
+ Kevlar
+ Lapis Lazuli
+ Lead
+ Leather
+ Linen
+ Lint
+ Liquid Bismuth
+ Lumber
+ Magnesium
+ Manila Paper
+ Manuscript Paper
+ Marble
+ Marcasite
+ Mercury
+ Mesosiderite Meteorite
+ Metallic
+ Meteorite
+ Microfiber
+ Mirror
+ Moganite
+ Molten Mercury
+ Mud
+ Net
+ Nylon
+ Oak-Wood
+ Papyrus
+ Patch
+ Pearl
+ Persian Rug
+ Pewter
+ Pine-Wood
+ Plastic
+ Plastic-Coated Paper
+ Platinum
+ Plywood
+ Polypropylene
+ Polyurethane
+ Quartz
+ Quartzite
+ Quilt
+ Rock
+ Rolag
+ Rose Quartz
+ Rubber
+ Ruby
+ Rug
+ Sand
+ Sandpaper
+ Sandstone
+ Seaglass
+ Security Paper
+ Sheetrock
+ Shrink Wrap
+ Silica Gel
+ Silk
+ Silver
+ Slate
+ Snow
+ Sodium
+ Soil
+ Solder
+ Sphalerite
+ Spider Web
+ Steel
+ Stone
+ Styrofoam
+ Swanskin Cloth
+ Talc
+ Tarnished Silver
+ Tissue
+ Tissue Paper
+ Titanium
+ Toilet Paper
+ Topaz
+ Tracing Paper
+ Twine
+ Vermiculite
+ Vinyl
+ Washi
+ Wax
+ Weave
+ Wood Veneer
+ Wooden
+ Wove Paper
+ Wrapping Paper
+ Yarn
+ Zirconium
+Acacia-Wood
+Achondrite Meteorite
+Adhesive
+Aerogel
+Afro
+Agate
+Aluminum
+Amber
+Amethyst
+Ametrine
+Ancient Egyptian Papyri
+Andesite
+Anodized Titanium
+Applique
+Aqeeq
+Arborite
+Armature Wire
+Asbestos
+Asphalt
+Aventurine
+Ballistic Foam
+Ballistic Gel
+Barbwire
+Barkcloth
+Basalt
+Bear Fur
+Beard
+Bedrock
+Birch-Wood
+Bismuth
+Bismuth Crystals
+Blanket
+Blue-Ice
+Bone
+Borax
+Borax Crystals
+Brass
+Brick
+Bronze
+Brushed Aluminum
+Bubble Wrap
+Burn
+Calomel
+Candelilla Wax
+Carbon Fiber
+Carbon Nanotubes
 Cardboard
 Cardstock
-Tracing Paper
-Tissue Paper
-Tissue
-Wove Paper
-Washi
-Papyrus
-Manuscript Paper
-Wrapping Paper
-Toilet Paper
-Manila Paper
-Security Paper
-Hemp Fiber
-Plastic-Coated Paper
-Greaseproof Paper
-Soil
-Mud
-Sand
-Sandpaper
-Kaolinite
-Stone
-Rock
-Sandstone
-Marble
-Granite
-Coal
-Slate
-Quartzite
-Chert
-Carbon Fiber
-Concrete
-Asphalt
-Brick
-Ceramic
-Sheetrock
-Vermiculite
-Meteorite
-Iron Meteorite
-IIAB Meteorite
-Achondrite Meteorite
-Mesosiderite Meteorite
-Fluorescent Dugway Geode
-Metallic
-Foil
-Pewter
-Aluminum
-Bronze
-Iron
-Steel
-Titanium
-Silver
-Tarnished Silver
-Gold
-Platinum
-Chromium
-Bismuth
-Liquid Bismuth
-Mercury
-Molten Mercury
-Gallium
-Indium
-Magnesium
-Lead
-Zirconium
-Sodium
-Constantan
-Iron Filings
-Solder
-Chain
-Barbwire
-Fence
-Glassy
-Seaglass
-Mirror
-Fiberglass
-Glass and Crystals
-Diamond
-Quartz
-Rose Quartz
-Ruby
-Pearl
-Lapis Lazuli
-Jasper
-Topaz
-Ametrine
-Talc
-Moganite
-Marcasite
-Cuprite
-Sphalerite
-Chrysoprase
-Jewelry
-Cloth
-Twine
-Silk
-Denim
-Leather
-Linen
-Microfiber
-Nylon
-Kevlar
-Cordura
-Rolag
-Swanskin Cloth
-Jute Cloth
-Quilt
-Lint
-Rug
-Persian Rug
-Yarn
-Cross Stich
-Applique
-Patch
-Weave
-Net
-Spider Web
-Plastic
-Shrink Wrap
-Polyurethane
-Polypropylene
-Styrofoam
-Rubber
-Vinyl
-Arborite
-Gel
-Silica Gel
-Gelatinous
-Wax
 Carnauba Wax
-Ice
-Snow
-Hair
-Hairstyle
-Fur
-Fuzz
-Feathers
-Beard
-Bear Fur
-Dust-Bunny
-Amber
-Fibrin
-Inlay
-Googly Eyes
-Pellets
-Celluloid
-Liquid
-Water
-Lava
-Molten
-Ferro Fluid
-Gasoline
-Danish Oil
-Sea Foam
-Slime
-Putty
-Tape
-Duct Tape
-Kapton
-Gaffer Tape
-Adhesive
-Epoxy
-Non-Newtonian Fluid
-Polymer
-Play-Doh
-Vapor
-Clouds
-Powder
-Plasma
-Electric
-Fire
-Flame
-Burn
-Explosion
-
-Particle-Board
-Planks
-Sawdust
-Spalting
-Maple-Wood
-Cherry-Wood
-Wood-Stain
-Containerboard
-Corrugated Fiberboard
-Paper
-Glassine
-Graph Paper
-Tissues
-Ingres Paper
-Wasli
-Ancient Egyptian Papyri
-Medieval Parchment
-Parchment
-Paper Towel
-Manila Folder
-Rolling Paper
-Hemp Paper
-Tar Paper
-Seed Paper
-Dirt
-Mud Brick
-Gravel
-Podzol
-Cobblestone
-Rocky
-Basalt
-Gypsum
-Diorite
-Sulfur
-Limestone
-Travertine
-Fulgurite
-Graphene
-Hempcrete
-Road
-Terracotta
-Enamel
-Plaster
-Perlite
-Hexahedrite
-Stony-Iron Meteorite
-IIE Iron Meteorite
-Chondrite Meteorite
-Lodranite Meteorite
-Metal
-Rusty
-Copper
-Brushed Aluminum
-Brass
-Wrought Iron
-Stainless Steel
-Anodized Titanium
-Sterling Silver
-Rose-Gold
-Chrome
-Bismuth Crystals
-Melted Bismuth
-Mercury Metal
-Molten Mercury Metal
-Melted Gallium
-Melted Indium
-Zinc
-Tungsten
-Cubic Zirconium
-Potassium
-Hepatizon
-Copper-Sulfate
-Metallic Fiber
-Chain-Link
-Chicken Wire
-Stained Glass
-Obsidian
-Mirrored
-Glass Fiber
-Crystalline
-Herkimer Diamond
-Smoky Quartz
-Rutilated Quartz
-Sapphire
-Citrine
-Onyx
-Opal
-Agate
-Aventurine
-Talcum powder
-Stibnite
-Calomel
-Aqeeq
-Orpiment
-Chalcedony
-Colloidal Crystal
-Cotton
-Cashmere
-Satin
-Khaki
-Felt
-Velvet
-Fibers
-Polyamide
-Rayon
-Lurex
-Roving
-Tansukh Cloth
-Barkcloth
-Blanket
-Cushion
+Carnelian
 Carpet
-Qom Rug
-Knitted
-Needle Point
-Lace
-Sewing
-Weaving
-Netting
-Polyimide
-Plastic Wrap
-Polyethylene
-Teflon
-Foam
-Latex
-Silicone
-Formica
-Aerogel
-Ballistic Gel
-Sponge
-Wax Paper
-Candelilla Wax
-Blue-Ice
-Snowflake
-Hairy
-Afro
-Furry
-Fuzzy
-Feathery
-Mustache
-Cow Fur
-Ivory
-Collagen
-Trash
-Filament
-Fluidity
-Liquid Crystal
-Magma
-Varnish
-Motor Oil
-Turpentine
-Linseed Oil
-Emulsion
-Flubber
-Poster Tack
-Scotch Tape
-Packing Tape
-Kapton Tape
-Twill Tape
-Glue
-Paste
-Orbeez
-Plastisol
-Vaporized
-Fog
-Smoke
-Energy
-Electrical
-Fireball
-Flamethrower
-Inferno
-Firework
-
-Hardboard
-Wooden Planks
-Nailed-Wood
-Petrified Wood
-Acacia-Wood
-Birch-Wood
-Wooden Fence
-Paperboard
-Construction Paper
-Post-it Note
-Kraft Paper
-Lokta Paper
-Vellum
-Parchment Paper
-Envelope
-Cotton Paper
+Cashmere
+Caution Tape
+Cedar-Wood
+Celluloid
 Cellulose
-Clay
-Dust
-Silt
-Spodosol
-Pebbles
-Bedrock
-Flint
-Borax
-Andesite
-Slag
-Sodalime
-Minium
-Geyserite
-Carbon Nanotubes
-Sidewalk
-Stone Tablet
-Pottery
-Tile
-Asbestos
-Fossil
-Octahedrite
-Iron Meteorite
-Gujba Meteorite
+Ceramic
+Chain
+Chain-Link
+Chain-Link Fence
+Chalcedony
+Cherry-Wood
+Chert
+Chicken Wire
+Chondrite Meteorite
 Chondrule Meteorite
-Pallasite Meteorite
-Liquid Metal
-Tarnish
-Tin
-Tarnished Brass
+Chrome
+Chromium
+Chrysoprase
+Citrine
+Clay
+Clear Tape
+Cling Wrap
+Cloth
+Clouds
+Coal
+Cobalt
+Cobblestone
+Collagen
+Colloidal Crystal
+Concrete
+Constantan
+Construction Paper
+Containerboard
+Copper
+Copper-Sulfate
+Cordura
+Corduroy
+Cork
+Corrugated Fiberboard
+Cotton
+Cotton Paper
+Cow Fur
+Cristobalite
+Crochet
+Cross Stich
+Crystalline
+Cubic Zirconium
+Cuprite
+Cushion
 Damascus
 Damascus Steel
 Damascus Titanium
-Sterling
-Tarnished Gold
-Cobalt
-Uranium
-Nichrome
-Metal Foam
-Armature Wire
-Chain-Link Fence
-Stained Glass Windows
-Hall of Mirrors
-Borax Crystals
-Amethyst
-Milky Quartz
-Sceptred Quartz
-Emerald
-Fluorite
-Selenite
-Opalite
-Carnelian
-Tridymite
-Cristobalite
-Realgar
-Lechatelierite
-Prasiolite
-Polyester
-Felt Cloth
-Corduroy
-Memory Foam
-Spandex
-Lyocell
-Nomex
-Lurex
-Pillow
-Pin Cushion
-Crochet
-Embroidery
-Macrame
-Sewen
-Quilling
-Lego
-Cling Wrap
-Polyvinyl
-Melamine
-Bubble Wrap
-Nitrile
-Linoleum
-Sandarac
-Softgel
-Ballistic Foam
-Spongy
-Shellac
-Paraffin Wax
-Dry Ice
-Mohawk
-Bone
-Molten Rock
-Oil
-Mineral Oil
-Tung Oil
-Clear Tape
-Masking Tape
-Double-Sided Tape
-Caution Tape
+Danish Oil
+Denim
+Diamond
+Diorite
+Dirt
 Double-Sided Glue
-Oobleck
-Mist
+Double-Sided Tape
+Dry Ice
+Duct Tape
+Dust
+Dust-Bunny
+Electric
+Electrical
 Electricity
 Ember
+Embroidery
+Emerald
+Emulsion
+Enamel
+Energy
+Envelope
+Epoxy
+Explosion
+Feathers
+Feathery
+Felt
+Felt Cloth
+Fence
+Ferro Fluid
+Fiberglass
+Fiber-Reinforced Composite
+Fibers
+Fibrin
+Filament
+Fire
+Fireball
+Firework
+Flame
+Flamethrower
+Flint
+Flubber
+Fluidity
+Fluorescent Dugway Geode
+Fluorite
+Foam
+Fog
+Foil
+Formica
+Fossil
+Fulgurite
+Fur
+Furry
+Fuzz
+Fuzzy
+Gaffer Tape
+Gallium
+Gasoline
+Gel
+Gelatinous
+Geyserite
+Glass and Crystals
+Glass Fiber
+Glassine
+Glassy
+Glue
+Gold
+Googly Eyes
+Granite
+Graph Paper
+Graphene
+Gravel
+Greaseproof Paper
+Gujba Meteorite
+Gypsum
+Hair
+Hairstyle
+Hairy
+Hall of Mirrors
+Hardboard
+Hemp Fiber
+Hemp Paper
+Hempcrete
+Hepatizon
+Herkimer Diamond
+Hexahedrite
+Ice
+IIAB Meteorite
+IIE Iron Meteorite
+Indium
+Inferno
+Ingres Paper
+Inlay
+Iron
+Iron Filings
+Iron Meteorite
+Ivory
+Jasper
+Jewelry
+Jute Cloth
+Kaolinite
+Kapton
+Kapton Tape
+Kevlar
+Khaki
+Knitted
+Kraft Paper
+Lace
+Lapis Lazuli
+Latex
+Lava
+Lead
+Leather
+Lechatelierite
+Lego
+Limestone
+Linen
+Linoleum
+Linseed Oil
+Lint
+Liquid
+Liquid Bismuth
+Liquid Crystal
+Liquid Metal
+Lodranite Meteorite
+Lokta Paper
+Lumber
+Lurex
+Lyocell
+Macrame
+Magma
+Magnesium
+Manila Folder
+Manila Paper
+Manuscript Paper
+Maple-Wood
+Marble
+Marcasite
+Masking Tape
+Medieval Parchment
+Melamine
+Melted Bismuth
+Melted Gallium
+Melted Indium
+Memory Foam
+Mercury
+Mercury Metal
+Mesosiderite Meteorite
+Metal
+Metal Foam
+Metallic
+Metallic Fiber
+Meteorite
+Microfiber
+Milky Quartz
+Mineral Oil
+Minium
+Mirror
+Mirrored
+Mist
+Moganite
+Mohawk
+Molten
+Molten Mercury
+Molten Mercury Metal
+Molten Rock
+Motor Oil
+Mud
+Mud Brick
+Mustache
+Nailed-Wood
+Needle Point
+Net
+Netting
+Nichrome
+Nitrile
+Nomex
+Non-Newtonian Fluid
+Nylon
+Oak-Wood
+Obsidian
+Octahedrite
+Oil
+Onyx
+Oobleck
+Opal
+Opalite
+Orbeez
+Orpiment
+Packing Tape
+Pallasite Meteorite
+Paper
+Paper Towel
+Paperboard
+Papyrus
+Paraffin Wax
+Parchment
+Parchment Paper
+Particle-Board
+Paste
+Patch
+Pearl
+Pebbles
+Pellets
+Perlite
+Persian Rug
+Petrified Wood
+Pewter
+Pillow
+Pin Cushion
+Pine-Wood
+Planks
+Plasma
+Plaster
+Plastic
+Plastic Wrap
+Plastic-Coated Paper
+Plastisol
+Platinum
+Play-Doh
+Plywood
+Podzol
+Polyamide
+Polyester
+Polyethylene
+Polyimide
+Polymer
+Polypropylene
+Polyurethane
+Polyvinyl
+Poster Tack
+Post-it Note
+Potassium
+Pottery
+Powder
+Prasiolite
+Putty
+Qom Rug
+Quartz
+Quartzite
+Quilling
+Quilt
+Rayon
+Realgar
+Road
+Rock
+Rocky
+Rolag
+Rolling Paper
+Rose Quartz
+Rose-Gold
+Roving
+Rubber
+Ruby
+Rug
+Rusty
+Rutilated Quartz
+Sand
+Sandarac
+Sandpaper
+Sandstone
+Sapphire
+Satin
+Sawdust
+Sceptred Quartz
+Scotch Tape
+Sea Foam
+Seaglass
+Security Paper
+Seed Paper
+Selenite
+Sewen
+Sewing
+Sheetrock
+Shellac
+Shrink Wrap
+Sidewalk
+Silica Gel
+Silicone
+Silk
+Silt
+Silver
+Slag
+Slate
+Slime
+Smoke
+Smoky Quartz
+Snow
+Snowflake
+Sodalime
+Sodium
+Softgel
+Soil
+Solder
+Spalting
+Spandex
+Sphalerite
+Spider Web
+Spodosol
+Sponge
+Spongy
+Stained Glass
+Stained Glass Windows
+Stainless Steel
+Steel
+Sterling
+Sterling Silver
+Stibnite
+Stone
+Stone Tablet
+Stony-Iron Meteorite
+Styrofoam
+Sulfur
+Swanskin Cloth
+Talc
+Talcum powder
+Tansukh Cloth
+Tape
+Tar Paper
+Tarnish
+Tarnished Brass
+Tarnished Gold
+Tarnished Silver
+Teflon
+Terracotta
+Tile
+Tin
+Tissue
+Tissue Paper
+Tissues
+Titanium
+Toilet Paper
+Topaz
+Tracing Paper
+Trash
+Travertine
+Tridymite
+Tung Oil
+Tungsten
+Turpentine
+Twill Tape
+Twine
+Uranium
+Vapor
+Vaporized
+Varnish
+Vellum
+Velvet
+Vermiculite
+Vinyl
+Washi
+Wasli
+Water
+Wax
+Wax Paper
+Weave
+Weaving
+Wood Veneer
+Wooden
+Wooden Fence
+Wooden Planks
+Wood-Stain
+Wove Paper
+Wrapping Paper
+Wrought Iron
+Yarn
+Zinc
+Zirconium
