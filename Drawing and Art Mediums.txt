@@ -1,5 +1,7 @@
 1980s Airbrush Art
+3d Glow
 3D Printed
+3d Render
 Acrylic Paint
 Agateware
 Airbrush
@@ -18,6 +20,7 @@ Bagru Print
 Balloon Modelling
 Balloon Twisting
 Ballpoint Pen
+Banksy Art
 Banner
 Bayeux Tapestry
 Beads and String
@@ -169,7 +172,6 @@ Latte Art
 Leather Crafting
 Letters
 Lexemes
-Lexemes "Hello"
 Light Art
 Light Painting
 Lightpainting
@@ -226,7 +228,6 @@ Photogravure
 Pietra Dura
 Pointillism
 Pokemon Card
-Pokémon Card
 Pop-up Book
 Postage Stamp
 Poster
@@ -246,7 +247,6 @@ Romanesque Painting
 Salt Glaze Pottery
 Sandpainting
 Says
-Says 'Hello'
 Scrapbooking
 Scrimshaw
 Scroll Painting
@@ -306,9 +306,6 @@ Woodblock Print
 Wood-Carving
 Woodcut
 Wooden Frame
-Wooden Framed
+
 Woodturning
-Words
-Written Letters
-Written Letters "Hello"
-Written Words
+Lightning Art
