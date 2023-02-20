@@ -1,206 +1,312 @@
- AICAN
- AI-Da
- Alexandra Exter
- Art by Agustín Esteve
- Art by Albrecht Dürer
- Art by Amedeo Modigliani
- Art by Auguste Renoir
- Art by Berthe Morisot
- Art by Caravaggio
- Art by Carl Spitzweg
- Art by Caspar David Friedrich
- Art by Claude Monet
- Art by David Hockney
- Art by Edgar Degas
- Art by Edvard Munch
- Art by El Greco
- Art by Emil Nolde
- Art by Francisco de Goya
- Art by Franz Marc
- Art by Frida Kahlo
- Art by Gandelif Jamarison
- Art By George Maciunas
- Art By Georges Ribemont-Dessaignes
- Art by Georges Seurat
- Art by Gustav Klimt
- Art by Henri Cartier-Bresson
- Art By Ilia Zdanevich
- Art by Jan van Eyck
- Art By Jim Burns
- Art by Joan Miró
- Art by Joaquín Sorolla
- Art by Johannes Vermeer
- Art by John William Waterhouse
- Art by Kazimir Malevich
- Art by Leonardo da Vinci
- Art By Marcel Duchamp
- Art by Max Beckmann
- Art by Max Ernst
- Art by Max Slevogt
- Art by Michelangelo
- Art by Paul Cézanne
- Art by Paul Klee
- Art by Peter Paul Rubens
- Art by Pierre Bonnard
- Art by Pierre-Auguste Renoir
- Art by Rickolas Veneyfield
- Art by Salvador Dalí
- Art by Sandro Botticelli
- Art by Vincent Di Fate
- Art by Wassily Kandinsky
- Art By Wilhelm Fick
- Art by Yves Tanguy
- Berthe Morisot
- Christian Schad
- Dan Chen
- David McLeod
- Edgar Degas
- Edvard Munch
- Egon Schiele
- El Lissitzky
- Emil Nolde
- Ernst Ludwig Kirchner
- Flash-Traced
- Francis Picabia
- Georg Schrimpf
- Georges Braque
- Glimmer-Traced
- Golan Levin
- Gustav Klimt
- Halometric Patterns
- Hannah Höch
- Hannah Perry
- Henri Matisse
- Jean Metzinger
- Joan Miró
- John Heartfield
- Joshua Davis
- Joshua King
- Joshua Noble
- Juan Gris
- Kazimir Malevich
- Kurt Schwitters
- Laszlo Moholy-Nagy
- Lumametric
- Mario Klingemann
- Mary Cassatt
- Max Beckmann
- Max Ernst
- Memo Akten
- Nortonious
- Obvious
- Origummy
- Oskar Kokoschka
- Otto Dix
- Pablo Gargallo
- Painted By Affadi
- Painted By Alexei Savrasov
- Painted By Amanda Sage
- Painted By Andre Masson
- Painted By Andy Worhol
- Painted By Anne Stokes
- Painted by Redrick J Hubedrin
- Painted by Vincent Bob Gray
- Painting By Adolph Menzel
- Painting By Anthony van Dyck
- Painting By August Macke
- Painting By Bartolomé Esteban Murillo
- Painting By Dan Mumford
- Painting By David Alabo
- Painting By Diego Rodríguez de Silva y Velázquez
- Painting By Edgar Degas
- Painting By Édouard Manet
- Painting By Edvard Munch
- Painting By Egon Schiele
- Painting By Ernst Ludwig Kirchner
- Painting By Francis Bacon
- Painting By Georg Wilhelm Friedrich Hegel
- Painting By Giorgio de Chirico
- Painting By Gustav Klimt
- Painting By Gustave Courbet
- Painting By Henri Matisse
- Painting By Hieronymus Bosch
- Painting By Johann Wolfgang von Goethe
- Painting By José de Ribera
- Painting By Josip Demirovic Devj
- Painting By Juan Martín de Ansorena
- Painting By Juan Miró
- Painting By Kandinksey
- Painting By Lovis Corinth
- Painting By Lucian Freud
- Painting By Lyonel Feininger
- Painting By Marc Chagall
- Painting By Mary Cassatt
- Painting By Max Beckmann
- Painting By Max Liebermann
- Painting By Otto Dix
- Painting By Pablo Picasso
- Painting By Paul Cézanne
- Painting By Pierre-Auguste Renoir
- Painting By Raphael Sanzio
- Painting By Rembrandt Harmenszoon van Rijn
- Painting By René Magritte
- Painting By Tiziano Vecelli
- Painting By Wassily Kandinsky
- Paul Cezanne
- Pierre Bonnard
- Pierre-Auguste Renoir
- Proporastable
- Prospeartented
- Psychromvolucence
- Rafael Lozano-Hemmer
- Refik Anadol
- René Magritte
- Salvador Dalí
- Sara Ludy
- Shimmavolucent
- Supercalifragilisticexpialidocious
- The cotton clothing is made of grows in Mississippi
- The horse raced past the barn fell
- The man who hunts ducks out on weekends
- The Next Rembrandt
- To Be Continued
- Transchromacy
- Vladimir Tatlin
- We painted the wall with cracks
- Yves Tanguy
-Art by Gandelif Jamarison
-Art By George Maciunas
-Art By Georges Ribemont-Dessaignes
-Art By Ilia Zdanevich
-Art By Jim Burns
-Art By Marcel Duchamp
-Art by Rickolas Veneyfield
-Art by Vincent Di Fate
-Art By Wilhelm Fick
-Flash-Traced
-Glimmer-Traced
-Halometric Patterns
-Lumametric
-Nortonious
-Origummy
-Painted By Affadi
-Painted By Alexei Savrasov
-Painted By Amanda Sage
-Painted By Andre Masson
-Painted By Andy Worhol
-Painted By Anne Stokes
-Painted by Redrick J Hubedrin
-Painted by Vincent Bob Gray
-Painting By Dan Mumford
-Painting By David Alabo
-Painting By Hieronymus Bosch
-Painting By Josip Demirovic Devj
-Painting By Kandinksey
-Painting By Pablo Picasso
-Painting By Wassily Kandinsky
-Proporastable
-Prospeartented
-Psychromvolucence
-Shimmavolucent
-Supercalifragilisticexpialidocious
-The cotton clothing is made of grows in Mississippi
-The horse raced past the barn fell
-The man who hunts ducks out on weekends
-Transchromacy
-We painted the wall with cracks
+
+1980s Airbrush Art
+3d Glow
+3D Printed
+3d Render
+Acrylic Paint
+Agateware
+Airbrush
+Album Art
+Anatomical Drawing
+Ancient Roman Mosaic
+Ancient Roman Painting
+Aquatint
+Arts and Crafts
+Artwork
+Assemblage
+Assembly Drawing
+Azulejo
+Bagh Print
+Bagru Print
+Balloon Modelling
+Balloon Twisting
+Ballpoint Pen
+Banksy Art
+Banner
+Bayeux Tapestry
+Beads and String
+Beads and Yarn
+Beadwork
+Bejeweled
+Bentwood
+Blackboard
+Blacklight Paint
+Block Printing
+Blueprint
+Bone Carving
+Bone China
+Booklet
+Brushwork
+Calligraphy
+Cameo Glass
+Canvas
+Caption
+Caravaggio Painting
+Card
+Caricature
+Carpentry
+Cartographic
+Carved Lacquer
+Carving
+Casein Paint
+Cave Art
+Chainsaw-Carving
+Chalk
+Chalkboard
+Charcoal Art
+Children’s Drawing
+Chinese Painting
+Chinese Paper Art
+Chintzware
+Chip-Carving
+Chip-Work
+Circuit
+Circuitry
+Closed Composition
+Coffee Paint
+Coffee Stain
+Collage
+Color Field Painting
+Colored Pencil
+Comic Book
+Computer Chip
+Concept Art
+Concert Poster
+Conductive Ink
+Confetti
+Conte
+Cosmorama
+Crayon
+Crosshatch
+Decal
+Decoupage
+Detailed Painting
+Diorama
+Doodle
+Dot Art
+Drawing
+Dripping Paint
+Dry-Erase Marker
+Drypoint
+Earthenware
+Easter Egg
+Edge-To-Edge Photographic Print
+Egg Decorating
+Egyptian Faience
+Enamel Pin
+Enameled Glass
+Encaustic Painting
+Encaustic Tile
+Engraved Gem
+Etch-A-Sketch Drawing
+Etching
+Faux Painting
+Fayum Portrait
+Featherwork
+Figure Drawing
+Figurine
+Fine Art
+Flexographic Ink
+Flexography
+Font
+Fotocollage
+Fountain Pen
+Fountain Pen Art
+Frame
+Framed
+Fretwork
+Gel Pen
+Glass Blowing
+Glass Mosaic
+Glass Paint
+Glass-Etching
+Glaze
+Gond Painting
+Gouache Paint
+Graffiti
+Graffiti Tag
+Graphemes
+Graphic Novel
+Graphite
+Grease Pen
+Grease Pencil
+Hand-Drawn
+Hand-Written
+Hard Edge Painting
+Hardstone Carving
+Hatmaking
+Hedge Trimming
+Hydrodipped
+Hydro-Dipping
+Ice-Carving
+IKEA Guide
+Illuminated Manuscript
+Illustrated-Booklet
+Illustration
+Impasto
+Impressionist Mosaic
+In The Style of Bayeux Tapestry
+India Ink
+Indian Art
+Inglaze
+Ink
+Inkjet Printed
+Installation Art
+Instruction Manual
+Intaglio
+Intarsia
+Iris-Folding
+Iron Gall Ink
+Ironwork
+Japanese Painting
+Kalamkari Painting
+Kamikiri
+Kids Book
+Kirigami
+Lacquer
+Land Art
+Lapidary
+Laser Printed
+Laser-Cut
+Lath Art
+Latte Art
+Leather Crafting
+Letters
+Lexemes
+Light Art
+Light Painting
+Lightpainting
+Line Art
+Linocut
+Lithography
+Lithophane
+Logo
+Lustreware
+Madhubani Painting
+Magazine
+Marker Art
+Marquetry
+Masterpiece
+Matte Painting
+Mayan Sculpture
+Metalcut
+Mezzotint
+Micromosaic
+Minoan Mural
+Model
+Modeling
+Modern Art
+Modular Origami
+Moneygami
+Monotype
+Mosaic
+Movie Poster
+Mural
+Neolithic Pottery
+Newspaper
+Newsprint
+Oil Paint
+Origami
+Ornament
+Oshibana
+Overglaze
+Paint
+Painting
+Paintwork
+Paleolithic Pottery
+Paper Model
+Papercutting
+Paper-Mache
+Paper-Marbling
+Papier-Colle
+Pastel Art
+Pencil Art
+Phad Painting
+Photocollage
+Photograph
+Photographic Mosaic
+Photogravure
+Pietra Dura
+Pointillism
+Pokemon Card
+Pop-up Book
+Postage Stamp
+Poster
+Print
+Printed
+Projection Mapping
+Public Art
+Puffy Paint
+Puppet
+Pyrography
+Relief-Carving
+Resin
+Rigid Origami
+Risograph
+Rock Art
+Romanesque Painting
+Salt Glaze Pottery
+Sandpainting
+Says
+Scrapbooking
+Scrimshaw
+Scroll Painting
+Sculpture
+Sgraffito
+Sign
+Signage
+Site-Specific art
+Sketch
+Slipware
+Smoke Art
+Sonobe
+Soviet Art
+Speedpainting
+Splatter Paint
+Spray
+Spray Paint
+Stamp
+Stencil
+Stencil Graffiti
+Sticker
+Sticker Bomb
+Still-Life
+Stipple
+Stoneware
+Storybook Illustration
+Straw Marquetry
+Street Art
+String-Art
+Tableware
+Tapestry
+Tarot Card
+Tattoo
+Tempera Paint
+Text
+Tibetan Painting
+Tie-dye
+Tin-Glazed Pottery
+Transfer Printing
+Typeface
+Underglaze
+Underground Comix
+Viscosity Print
+Visual Novel
+Wall Decal
+Warli Painting
+Watercolor
+Watermark
+Wet Paint
+Wet-Erase Marker
+Wet-Folding
+Whimsical Illustration
+Whiteboard
+Whittling
+Wood Marquetry
+Woodblock Print
+Wood-Carving
+Woodcut
+Wooden Frame
+
+Woodturning
+Lightning Art
