@@ -64,6 +64,7 @@ Prismatic
 Sparkly
 Glowing Neon
 Cherenkov Radiation
+
 Photoluminescence
 Electroluminescence
 Phosphorescence
@@ -104,7 +105,6 @@ Effervescent
 Charred
 Perforated
 Opaque
-
 Sparkles
 Glow-In-The-Dark
 Chemiluminescence
