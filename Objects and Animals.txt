@@ -1,383 +1,87 @@
-Food
-Abraham Lincoln
-Adele
-Aftershave
-Albert Einstein
-Alligator
-Anderson Cooper
-Angelina Jolie
-Anteater
-Aristotle
-Armadillo
-Baboon
-Bach
-Backpack
-Badger
-Barack Obama
-Bat
-Bear
-Bed
-Beethoven
-Belt
-Beyoncé
-Bicycle
-Blanket
-Blush
-BMW 3-Series
-Bob Dylan
-Body wash
-Book
-Bracelet
-Brad Pitt
-Bradley Cooper
-Broom
-Bruce Springsteen
-Buffalo
-Car
-Caribou
-Cat
-Chair
-Charles Darwin
-Chevrolet Cruze
-Chevrolet Equinox
-Chevrolet Impala
-Chevrolet Silverado
-Chevrolet Tahoe
-Chevrolet Traverse
-Chimpanzee
-Chipmunk
-Chris Evans
-Chris Hemsworth
-Clam
-Clock
-Coat
-Cologne
-Comb
-Comforter
-Computer
-Conan O'Brien
-Condoms
-Confucius
-Coyote
-Crab
-Crocodile
-Crow
-Curtains
-Cutlery
-Daniel Radcliffe
-Deer
-Deodorant
-Detergent
-Dish
-Disinfectant spray
-Dog
-Dolphin
-Dress
-Dustpan
-Eagle
-Earrings
-Elephant
-Elk
-Ellen DeGeneres
-Elvis Presley
-Emma Stone
-Emma Watson
-Eye shadow
-Falcon
-Ferret
-Flamingo
-Flashlight
-Flying squirrel
-Ford Escape
-Ford Explorer
-Ford F-150
-Ford Focus
-Fox
-Franklin D
-Freddie Mercury
-Galileo Galilei
-George Clooney
-George Washington
-Gibbon
-Giraffe
-Glass
-Gloves
-Gorilla
-Guinea pig
-Hair dye
-Hair gel
-Hair spray
-Hairbrush
-Hamster
-Hand sanitizer
-Hare
-Hat
-Hawk
-Hippopotamus
-Honda Accord
-Honda Civic
-Honda CR-V
-Honda HR-V
-Honda Odyssey
-Honda Pilot
-Horse
-Howard Stern
-Hyundai Elantra
-Hyundai Santa Fe
-Hyundai Sonata
-Isaac Newton
-Jake Tapper
-Jeans
-Jeep Cherokee
-Jeep Compass
-Jeep Grand Cherokee
-Jeep Wrangler
-Jellyfish
-Jennifer Aniston
-Jennifer Lopez
-Jim Acosta
-Jimmy Fallon
-Jimmy Kimmel
-John F
-John Oliver
-Johnny Depp
-Julius Caesar
-Kangaroo
-Kate Middleton
-Key
-Kia Optima
-Kia Sorento
-Kia Soul
-Kia Sportage
-Kim Kardashian
-Koala
-Kylie Jenner
-Lamp
-Lemming
-Lemur
-Leonardo da Vinci
-Lion
-Lip balm
-Lipstick
-Lizard
-Lobster
-Lotion
-Macaw
-Madonna
-Mahatma Gandhi
-Makeup
-Marilyn Monroe
-Marmot
-Martin Luther
-Martin Luther King Jr
-Mascara
-Matt Damon
-Mazda CX-5
-Mazda3
-Mazda6
-Meryl Streep
-Michael Jackson
-Michelangelo
-Mirror
-Mole
-Moose
-Mop
-Mother Teresa
-Mouse
-Mozart
-Mug
-Nail clippers
-Nail polish
-Necklace
-Nelson Mandela
-Nikola Tesla
-Nissan Altima
-Nissan Frontier
-Nissan Maxima
-Nissan Rogue
-Nissan Sentra
-Octopus
-Opossum
-Oprah Winfrey
-Orangutan
-Otter
-Owl
-Oyster
-Pablo Picasso
-Pads
-Panda
-Paper towels
-Parrot
-Peacock
-Pelican
-Pen
-Perfume
-Phone
-Picture frame
-Pigeon
-Pillow
-Plate
-Plato
-Polar bear
-Porpoise
-Prince
-Prince Charles
-Prince George
-Prince Harry
-Prince Louis
-Prince William
-Princess Charlotte
-Princess Diana
-Purse
-Queen Elizabeth II
-Rabbit
-Raccoon
-Rachel Maddow
-Ram 1500
-Rat
-Razor
-Razor blade
-Rembrandt
-Rhinoceros
-Rihanna
-Ring
-Robert Downey Jr
-Rug
-Rupert Grint
-Rush Limbaugh
-Ryan Reynolds
-Salvador Dali
-Sandra Bullock
-Scarf
-Scarlett Johansson
-Scissors
-Sea lion
-Seagull
-Seal
-Sean Hannity
-Shampoo
-Shaving cream
-Sheets
-Shepard Smith
-Shoes
-Shrimp
-Skirt
-Skunk
-Snake
-Soap
-Socks
-Socrates
-Sofa
-Sponge
-Squid
-Squirrel
-Starfish
-Stephen Colbert
-Stephen Hawking
-Subaru Forester
-Subaru Impreza
-Subaru Legacy
-Subaru Outback
-Suit
-Sunglasses
-Sunscreen
-Swan
-Table
-Taylor Swift
-Television
-The Beatles
-Tiger
-Tissues
-Toilet paper
-Tom Cruise
-Toothbrush
-Tote bag
-Towel
-Toyota Camry
-Toyota Corolla
-Toyota RAV4
-Toyota Sienna
-Toyota Tacoma
-Toyota Tundra
-Trash bags
-Trash can
-Trevor Noah
-T-shirt
-Tucker Carlson
-Turtle
-Umbrella
-Underwear
-Vacuum cleaner
-Vase
-Vincent van Gogh
-Volkswagen Atlas
-Volkswagen Jetta
-Volkswagen Tiguan
-Wallet
-Walrus
-Watch
-Whale
-William Shakespeare
-Winston Churchill
-Wolf
-Wolf Blitzer
-Zebra
 Aardvark
 Aardwolf
-ability
-abroad
-abuse
-access
+Abraham Lincoln
+Abu (Aladdin)
+Abyss
+Abyssinian
 Accordion
-account
+Ace the Warhawk - University of Wisconsin-Whitewater
+Achilles
 Acorn
 Acropora-Secale
-act
 action
-active
 activity
 actor
-addition
-address
 Adele
+Adelie penguin
+Admiral Ackbar - Monmouth College
 adult
-advantage
 advertising
 advice
 Aerial platform
 affect
+Affenpinscher dog
+Afghan hound
 African buffalo
+African bush elephant
+African civet
+African clawed frog
 African elephant
+African forest elephant
 African leopard
+African penguin
+African wild dog
 afternoon
+Aftershave
 Agar
 age
 agent
 air
 Aircraft
+Airedale terrier
 airline
 Airliner
 Airplane
 airport
+AJ Styles
+Akbash dog
+Akita dog
+Alabama Slammer
+Aladdin
 alarm
+Alaskan malamute
 Albatross
+Albert and Alberta Gator - University of Florida
+Albert Einstein
 alcohol
+Aldabra giant tortoise
+Alexa Bliss
 Alfredo
 Alligator
+Allosaurus
 All-terrain vehicle
 Aloe
 Alpaca
-alternative
+Alpine dachsbracke
+Altaïr Ibn-La'Ahad (Assassin's Creed)
 Amanita-Muscaria
+Amaretto Sour
 ambition
 Ambulance
 Ambulance boat
 American buffalo (bison)
+American bulldog
+American cocker spaniel
+American eskimo dog
+American foxhound
+American pit bull terrier
 American robin
-amount
+American water spaniel
 Amphibian
 Anaconda
-analysis
+Anatolian shepherd dog
+Anderson Cooper
+Andre the Giant
 Angelfish
 Angelina Jolie
 anger
@@ -387,63 +91,124 @@ Animal
 Animals
 Animals by number of neurons
 Animals by size
-answer
+Anime Bat
+Anime Bear
+Anime Bird
+Anime Cat
+Anime Chicken
+Anime Cow
+Anime Deer
+Anime Dog
+Anime Dragon
+Anime Elephant
+Anime English Bulldog
+Anime Frog
+Anime Goat
+Anime Horse
+Anime Husky
+Anime Iguana
+Anime Kangaroo
+Anime Minotaur
+Anime Mummy
+Anime Old Man
+Anime Old Woman
+Anime Penguin
+Anime Pug
+Anime Rabbit
+Anime Raccoon
+Anime Sheep 
+Anime Shiba Inu
+Anime Snail
+Anime Super Model
+Anime Turtle
+Anime Wolf
+Ankylosaurus
+Anna (Frozen)
 Ant
 Anteater
 Antelope
 Antlion
+Ant-Man
 anxiety
 anybody
 anything
 anywhere
 apartment
 Ape
+Aperol Spritz
 Aphid
-appearance
+Appenzeller dog
 apple
+Apple Martini
 application
+Aquaman
 Arabian leopard
+Archaeopteryx
 Arctic Fox
+Arctic hare
 Arctic Wolf
-argument
+Ariel (The Little Mermaid)
+Aristotle
 arm
 Armadillo
 army
-arrival
 Arrow crab
 article
+Ash Ketchum
+Ash Ketchum (Pokemon)
+Asian black bear
+Asian elephant
+Asian giant hornet
 aside
-ask
-aspect
-assist
 assistant
 associate
+Astro Boy
+Asuka
 atmosphere
 Atom
 attack
-attitude
-audience
+Aubie - Auburn University
+Aubie the Tiger - Auburn University
+Australian cattle dog
+Australian kelpie dog
+Australian mist
+Australian shepherd
+Australian terrier
 author
+Avatar
 average
+Aviation
+Avocet
 award
 awareness
+Axolotl
+Aye aye
+B-52
 Baboon
 baby
+Bach
 back
 Backdrop
 background
 Backhoe
+Backpack
 Bacteria
+Bactrian camel
 bad
 Badger
 bag
+Bagheera (The Jungle Book)
 bake
 balance
 Bald eagle
 Bali cattle
+Balinese
 ball
 Ball Pit
 Balloon
+Baloo (The Jungle Book)
+Balto
+Bambi
 Bamboo
 band
 Bandage
@@ -452,149 +217,232 @@ Bandicoot
 bank
 Banshee
 bar
-Barack Obama
+Barb
+Barn owl
 Barnacle
+Barney the Dinosaur
 Barracuda
+Bart Simpson
+Baryonyx
 base
 baseball
+Basenji dog
 Basilisk
 basis
 basket
+Basking shark
 Bass
+Bass Guitar
+Basset hound
 Bat
+Batgirl
 bath
 bathroom
+Batista
+Batman
 battle
+Batwing
+Batwoman
 Bauble
+Bavarian mountain hound
+Bayley
 beach
 Beach-Ball
+Beagle
 Beaked whale
 Bean-Bag
 Beans
 Bear
+Bearded collie
+Bearded dragon
 beat
 beautiful
+Beauty and the Beast (Belle and the Beast)
+Beauty and the Beast (Belle)
 Beaver
-bed
+Becky Lynch
+Bed
 Bedbug
+Bedlington terrier
 bedroom
 Bee
 beer
+Beethoven
 Beetle
-beginning
-being
 bell
-belt
+Belle (Once Upon a Time)
+Bellini
+Belt
 Bench
-bend
-benefit
-bet
+Bengal tiger
+Bernese mountain dog
+Beth Phoenix
+Betty Boop
 Beyoncé
-bicycle
+Bichon frise
+Bicycle
 Bicycle with sidecar
 big
+Big Al - University of Alabama
+Big Red - Western Kentucky University
+Big Show
 bike
-bill
+Binturong
 Bird
+Birman
 birth
 birthday
 Bison
-bite
-bitter
-black
+Black bear
+Black Bolt
+Black Labrodor 
+Black Lightning
 Black panther
+Black rhinoceros
+Black russian terrier
+Black Widow
 Black widow spider
 Blackbird
-blame
-blank
+Blade
+Blanket
+Blaze - University of Alabama at Birmingham
 Blimp
 blind
-Blobject
 block
+Bloodhound
+Bloody Caesar
+Bloody Mary
 blow
 blue
+Blue Beetle
+Blue Beetle (Jaime Reyes)
 Blue bird
+Blue Hawaii
+Blue Hawaiian
 Blue jay
+Blue Lagoon
 Blue whale
 Blue-Pinkgill
+Bluetick coonhound
 Blu-Ray Disc
 Boa
 Boar
 board
 boat
+Bobby "The Brain" Heenan
 Bobcat
 Bobolink
 body
+Body wash
+Bolognese dog
+Bombay
 bone
+Bongo
 Bonobo
-bonus
-book
+Booby
+Book
+Booker T
+Boomer and Sooner - University of Oklahoma
+Booster Gold
 boot
+Boots the Monkey (Dora the Explorer)
 border
+Border collie
+Border terrier
+Bornean orangutan
+Borneo elephant
 boss
-bother
+Boston terrier
 bottle
+Bottle nosed dolphin
 bottom
 Bovid
 bowl
+Bowser (Super Mario Bros)
 box
 Box jellyfish
+Boxer dog
 boy
 boyfriend
+Boykin spaniel
 Bracelet
+Brachiosaurus
 brain
 branch
 Branches
+Brandy Alexander
 brave
+Bray Wyatt
+Brazilian terrier
 Bread
-break
 breakfast
-breath
+Bret Hart
 brick
 bridge
-brief
+Brie Bella
 brilliant
-broad
+Brock Lesnar
+Brontosaurus
+Broom
 brother
 brown
+Brown bear
 brush
+Brutus Buckeye - Ohio State University
+Bucky Badger - University of Wisconsin-Madison
 buddy
-budget
+Budgerigar
 Buffalo
 Bug
+Bugs and Daffy (Duck Dodgers)
+Bugs Bunny
 building
+Bull mastiff
+Bull shark
+Bull terrier
 Bulldog
 Bulldozer
 Bullet Ant
+Bullfrog
+Bumble bee
+Bumblebee (Transformers)
 bunch
 Bunsen Burner
+Burmese
 burn
+Burning Man
+Burrowing frog
 bus
-business
+Butch T Cougar - Washington State University
 Butter
 Butterfly
+Butterfly fish
 button
-buy
-buyer
+Buzz - Georgia Institute of Technology
+Buzz and Tilly - Georgia Tech
+Buzz Lightyear (Toy Story)
 Buzzard
+Byron Saxton
 cabinet
 cable
 Cables
 Cactus
 Cage
+Caiman
+Caiman lizard
+Caipirinha
+Caipiroska
+Cairn terrier
 Cake
 Cake Decorating
-calendar
 Calico
 call
 calm
+Cam the Ram - Colorado State University
 Camel
 Camera
 camp
-campaign
 can
-cancel
-candidate
 candle
 Candy
 Candy-Floss
@@ -602,23 +450,28 @@ Canid
 Cannoli
 Canoe
 cap
-Capacitance Electronic Disc
 Cape buffalo
 capital
+Captain America
+Captain Cane - University of Tulsa
+Captain Marvel (DC)
+Captain Marvel (Marvel)
 Capybara
 Car
+Caracal
 Caramel
 card
 Cardinal
 Cards
-care
-career
 Caribou
+Caribou Lou
+Carnotaurus
 Carp
 carpet
 carry
 case
 cash
+Cassowary
 Cat
 Catamaran
 catch
@@ -627,36 +480,38 @@ Caterpillar
 Catfish
 Catshark
 Cattle
+Catwoman
 Caulastraea-Furcata
 Cauliflower
-cause
+Cavalier king charles spaniel
+Caveman
 CD
 cell
 Cells
 Cellular
 Centipede
 Cephalopod
+Cesky fousek
 chain
-chair
-challenge
+Chair
 Chameleon
+Chamois
 Champagne
+Champagne Cocktail
 champion
 championship
-chance
-change
 channel
 character
 charge
 charity
-chart
-check
-cheek
+Charles Darwin
+Charlotte Flair
 Cheese
 Cheese Grater
 Cheetah
 chemical
 chemistry
+Chesapeake bay retriever
 chest
 Chickadee
 Chicken
@@ -666,105 +521,109 @@ child
 Chimera
 Chimpanzee
 Chinchilla
+Chinese crested dog
+Chinstrap penguin
 chip
 Chipmunk
 Chlorociboria
 Chocolate
-choice
 Choux-Pastry
 Chow Chow
+Chris Benoit
+Chris Jericho
+Christian
+Chun-Li (Street Fighter)
 Chupacabra
 church
 Churros
+Chyna
 Cicada
+Cichlid
 cigarette
+Cinderella
 Cinnamon
 city
 City bus
-class
-classic
+CJ (Grand Theft Auto: San Andreas)
+Clam
 classroom
 Clathrus-Ruber
 Clavaria-Zollingeri
 clerk
-click
-client
 climate
-clock
+Clock
 closet
 clothes
 cloud
+Cloud Strife (Final Fantasy VII)
+Clouded leopard
+Clown
+Clown fish
 Clownfish
 club
 clue
+CM Punk
 coach
 coast
-coat
+Coat
+Coati
 Cobra
 Cockroach
+Cocky - University of South Carolina
 Coconut
 Cod
 code
+Cody Rhodes
+Coelophysis
 Coffee
 cold
 collar
-collection
+Collared peccary
 college
-combination
-combine
-comfort
-comfortable
+Collie
+Cologne
+Comb
 command
-commercial
-common
+Commander Shepard (Mass Effect)
+Common frog
 Common household pests
-Common names of poisonous animals
-communication
+Common loon
+Common toad
 community
 Commuter rail
-company
-competition
 complex
+Compsognathus
 Computer
-concentrate
 concept
-concern
 concert
 Concrete mixer
-condition
 Condor
-conflict
-confusion
-connection
-consequence
-consideration
-constant
+Confucius
 Constrictor
 construction
-contact
-contest
-contract
-control
 Convertible
 cook
 cookie
 Cookiecutter Shark
-copy
 Coral
+Corey Graves
 Corgi
-corner
 Corynactis
 Corynactis-Annulata
 Corynactis-Californica
+Cosmo and Wanda (Fairly OddParents)
+Cosmo the Cougar - Brigham Young University
+Cosmopolitan
 cost
 Cotton-Candy
+Cottontop tamarin
 Cougar
 count
 counter
 country
 Coupe
 couple
-courage
+Courage the Cowardly Dog
 course
 court
 cousin
@@ -772,6 +631,7 @@ cover
 Cow
 Coyote
 Crab
+Crab eating macaque
 crack
 craft
 Crane
@@ -782,7 +642,9 @@ Crayfish
 crazy
 Cream
 creative
+Creature
 credit
+Crested penguin
 crew
 Cricket
 Crinoid
@@ -792,80 +654,83 @@ cross
 Crow
 Cruiser
 cry
+Cuba Libre
 Cuckoo
 culture
 cup
+Curly coated retriever
 currency
 current
+Curtains
 curve
 customer
 cut
+Cutlery
+Cuttlefish
+Cyborg
 cycle
+Cyclops
+Cyclops (X-Men)
 Cyptotrama-Asprata
 Cystoagaricus-Trisulphuratus
+Dachshund
 dad
 Daffodil
-damage
+Daffy Duck
+Daiquiri
+Dalmatian
 Damselfly
 dance
 Dandelion
+Daniel Bryan
 dare
+Daredevil
 dark
+Dark and Stormy
+Dark 'n' Stormy
+Darth reven
 database
-date
 daughter
-day
 dead
+dead King in his throne
+Deadman
+Deadpool
 deal
 dealer
 death
-debate
-debt
-decision
-deep
 Deep-Fried
 Deer
-definition
-degree
-delivery
-demand
-department
-departure
-dependent
-deposit
-depression
-depth
-description
+Deinonychus
+Deodorant
+Desert tortoise
 design
 designer
-desire
 desk
 Dessertwave
-detail
-development
+Detergent
 device
 devil
+Dexter (Dexter's Laboratory)
 diamond
+Diamond Dallas Page
 Dichroic-Prism
 diet
-difference
-difficulty
 dig
+Dilophosaurus
 dimension
+Dimetrodon
 Dingo
 dinner
 Dinosaur
 Diode
-direction
-director
+Diplodocus
 dirt
 Dirt bike
-disaster
 discipline
-discount
-discussion
+Discus
 disease
-dish
+Dish
+Disinfectant spray
 disk
 Dispersive-Prism
 Display
@@ -874,9 +739,16 @@ distribution
 district
 divide
 DNA
+Doberman pinscher
 doctor
+Doctor Fate
+Doctor Manhattan
+Doctor Strange
 document
+Dodo
 Dog
+Dogo argentino
+Dogue de bordeaux
 Dolphin
 Domestic Bactrian camel
 Domestic canary
@@ -893,126 +765,127 @@ Domestic silkmoth
 Domestic silver fox
 Domestic turkey
 Dominoes
+Don Callis
+Donald Duck
 donkey
+Donkey (Shrek)
+Donkey Kong
 Doodad
 door
+Dora the Explorer
+Doraemon
 Dormouse
-dot
+Dory (Finding Nemo)
 double
 Dove
 draft
 drag
 Dragon
 Dragonfly
+Drake
 drama
 draw
 drawer
 drawing
 dream
 Dress
-Dressed
 Drilling rig
 drink
 drive
 driver
+Drone
 drop
+Drums
 drunk
+Dryosaurus
+Dubs the Husky - University of Washington
 Duck
 Duck breeds
+Duke Blue - Duke University
+Dumbo
 dump
 Dump truck
 Dung beetle
-dust
+Dusky dolphin
+Dustpan
 duty
 DVD
 Eagle
 ear
+Earrings
 earth
 Earthworm
 Earwig
-ease
 east
-eat
 Echidna
 Eclair
-economy
-edge
+Ed, Edd, n Eddy (Ed, Edd, n Eddy)
+Eddie Edwards
+Eddie Guerrero
+Eddie Valiant (Who Framed Roger Rabbit)
+Edgar Allan Poe - University of Baltimore
+Edge
+Edible frog
 Edible Ink
-editor
-education
+Edmontosaurus
 Eel
-effect
-effective
-efficiency
-effort
 Egg
 Egg Yolk
 Egret
-election
+Egyptian mau
+Einiosaurus
+Elasmosaurus
+Elastigirl (The Incredibles)
 Electric bicycle
 Electric car
+Electric eel
 Electric scooter
 Elephant
 Elephant seal
+Elephant shrew
 elevator
 Elk
+Ellie (The Last of Us Part II)
 Elon Musk
+Elsa (Frozen)
+Elsa and Anna (Frozen)
+Elvis Presley
+Emerald
 emergency
-Emma Watson
-emotion
-employ
-employee
-employer
+Eminem
+Emperor penguin
+Emperor tamarin
 Emu
-end
 energy
 engine
-engineer
+English cocker spaniel
 English pointer
-entertainment
-enthusiasm
+English shepherd
+English springer spaniel
+Entlebucher mountain dog
 Entoloma-Hochstetteri
-entrance
-environment
+entropic alien god
 Enzyme
-equal
 equipment
-equivalent
+Eric Bischoff
 Ermine
 escape
-essay
 establishment
 estate
-estimate
 Etch-A-Sketch
+Euoplocephalus
 Euphyllia-Ancora
 Euphyllia-Divisa
 Euphyllia-Glabrescens
 Euphylliidae
+Eve (Wall-E)
 evening
-event
-evidence
-exam
 example
 Excavator
-exchange
-excitement
-excuse
 exercise
-exit
-experience
-expert
-expression
-extension
-extent
-external
-extreme
 eye
-face
-fact
-factor
-fail
-failure
+Ezio Auditore (Assassin's Creed)
+Fairly OddParents (Timmy Turner)
 Falcon
 fall
 familiar
@@ -1024,151 +897,184 @@ Fancy rat varieties
 farm
 Farm tractor
 farmer
-fat
+Fat Albert
 father
-fault
 Favites-Halicora
 Favites-Pentagona
 Favolaschia-Calocera
-fear
-feature
 Fedora
-fee
-feed
-feedback
-feel
-feeling
 Felidae
+Felix the Cat
 female
+Fennec fox
 Fern
 Ferret
 Fettuccine
-few
 field
+Field spaniel
 Fig
-fight
-figure
-file
-fill
-Film
-final
-finance
 Finch
-finding
 finger
 Fingerprint
-finish
+Finn - Long Island University
+Finn Balor
 fire
+Fire bellied toad
 Fire truck
 Firefly
+Firestorm
 Fish
 Fish-Eye
 fishing
 Fishing boat
-fix
+Fishing cat
 Flag
 Flaky-Pastry
 Flamingo
+Flash
+Flashlight
+Flat coat retriever
 Flea
 flight
-floor
-Floral
+Flounder
 flow
 flower
 Flowers
 Flux Capacitor
 Fly
+Flying squirrel
 Flyingfish
-focus
 fold
-following
 Fondant Icing
-Food Coloring
+Food
 Food Dye
 foot
 football
-force
-forever
 Forklift
-form
-formal
 fortune
-foundation
+Fossa
 Fowl
 Fox
-frame
-freedom
-friend
-friendship
+Fox terrier
+Fred Rogers
+Freddie Falcon - Bowling Green State University
+French 75
+French bulldog
+French Martini
+Frigatebird
+Frilled lizard
 Frog
+Frozone (The Incredibles)
 Fruit
 Fruit bat
 Fruit-Tart
 fuel
 Fuel truck
-Fullerene
 fun
-function
 funeral
 Fungi
-funny
+Fur seal
 future
-gain
+Futuristic Alien
+Futuristic Boy
+Futuristic Cat
+Futuristic Cow
+Futuristic Dog
+Futuristic Dragon
+Futuristic Fox
+Futuristic Girl
+Futuristic Husky
+Futuristic Machine
+Futuristic Monster
+Futuristic Robot
+Futuristic Shiba Inu
+Futuristic Super Model
+Futuristic Transformer
+Futuristic Wolf
+Fuzzy Navel
+Gail Kim
+Galapagos penguin
+Galapagos tortoise
+Galileo Galilei
 Galliform
-game
+Gallimimus
 Gamefowl
-gap
+Gar
 garage
-garbage
 Garbage truck
 garden
+Garfield
 Gargoyle
 gas
 gate
-gather
 Gauze
 Gayal
 Gazelle
-gear
 Gecko
 Gelatin
 general
+Genie (Aladdin)
+Gentoo penguin
+Geoffroys tamarin
+George Pig (Peppa Pig)
+George the Dragon - SUNY Geneseo
+George Washington
 Gerbil
+German pinscher
 German Shepherd
+Gharial
+Ghost Rider
+Giant african land snail
+Giant clam
 Giant panda
+Giant panda bear
+Giant schauzer
 Giant squid
 Gibbon
-gift
+Giganotosaurus
 Gila monster
+Gimlet
+Gin and Tonic
+Gin Fizz
 Giraffe
 girl
 girlfriend
-give
-glad
-glass
+Gizmo (Gremlins)
+Glass
 Glasses
 Glider
 glove
+Gloves
+Glow worm
 Gnocchi
-go
-goal
 Goat
 god
+God of the underworld Anubis
+Godess of the vikings
+Godfather
+Godmother
 Go-kart
+Goku
 gold
+Goldberg
+Golden lion tamarin
+Golden oriole
+Golden retriever
 Golden-Scruffy-Collybia
 Goldfish
+Goldy Gopher - University of Minnesota
 golf
 Golf cart
-good
+Goofy
 Goose
 Goose breeds
 Gopher
+Gorgon
 Gorilla
-government
-grab
+Gorilla Monsoon
+Goth Man
+Goth Woman
 grade
-grand
 grandfather
 grandmother
 Grass
@@ -1176,24 +1082,30 @@ Grasshopper
 Grassy
 great
 Great blue heron
+Great dane
 Great white shark
-green
-Greenscreen
+Greater swiss mountain dog
+Green Arrow
+Green bee eater
+Green Lantern
+Greenland dog
+Grey mouse lemur
+Grey reef shark
+Grey seal
+Greyhound
+Grim Reaper
 Grizzly Bear
 grocery
-ground
+Groot
 Ground shark
 Ground sloth
-group
 Grouse
 growth
 Guan
 Guanaco
-guarantee
 guard
-guidance
-guide
-Guinea Pig
+Guinea fowl
+Guinea pig
 Guineafowl
 guitar
 Gull
@@ -1203,185 +1115,250 @@ Gumdrop
 Gummies
 Gummy Candy
 Guppy
+Gus the Gorilla - Pittsburg State University
 guy
 habit
 Haddock
+Hadrosaurus
 hair
+Hair dye
+Hair gel
+Hair spray
+Hairbrush
 half
 Halibut
 hall
 Hammerhead shark
 Hamster
 hand
+Hand sanitizer
 handle
+Handsome Dan - Yale University
 hang
+Harajuku girl
 Hare
-harm
 Harrier
+Harry the Hawk - Saint Joseph's University
 Hat
 Hatchback
-hate
+Havanese
+Hawaiian Giantess
 Hawk
+Hawkeye
 Hay
 Hay-Bale
 head
+Headless Zombie
 health
 hearing
 heart
 Heartbeat
 heat
 heavy
+heavy gunner juggernaut
 Heavy rail
 Hedgehog
 height
 Helicopter
 hell
-hello
+Hellboy
+Hello Kitty
 help
+He-Man
 Hemp
+Hercules beetle
+Herky the Hawk - University of Iowa
 Hermit crab
 Heron
 Herring
 hide
 high
+Highland cattle
 highlight
 High-speed rail
 highway
+Himalayan
+Hippo
+Hippogryph
 Hippopotamus
-hire
-historian
-history
-hit
+HokieBird - Virginia Tech
 hole
 holiday
 Holographic Versatile Disc
 home
+Homer Simpson
 homework
 honey
+Honey bee
 hook
 Hookworm
 hope
+Horn shark
+Horned frog
 Hornet
 horror
 Horse
+Horseshoe crab
 hospital
-host
 Hot Air Balloon
+Hot Toddy
 Hotdog
 hotel
-hour
 house
 Houseboat
 housing
 Hoverboard
 Hoverfly
+Howie the Hornet - Sacramento State University
+Howler monkey
+Hulk
+Hulk Hogan
 Human
+Human Torch
+Humanoid
+Humboldt penguin
 Hummingbird
 Humpback whale
 hunt
-hurry
-hurt
+Hurricane
 husband
 Hyena
 Hygrocybe-Cantharellus
+Ibis
+Ibizan hound
 ice
 Ice Cream
-ideal
-if
 Iguana
-illegal
-image
-imagination
-impact
+Iguanodon
 Impala
-implement
-importance
-impress
-incident
-income
-increase
-independent
-individual
-industry
-inflation
-information
-initial
-injury
+Indian elephant
+Indian palm squirrel
+Indian rhinoceros
+Indri
 insect
 Insect Zombies
-inside
-instance
-instruction
-Instrument
-insurance
+Inspector Clouseau (Pink Panther)
+Inspector Gadget
 Intercity bus
-internet
-interview
-introduction
-investment
+Invincible
+Invisible Woman
+Irish Car Bomb
+Irish Coffee
+Irish Mule
+Irish setter
+Irish wolfhound
 iron
+Iron Fist
+Iron Man
+Ironman
 Irukandji jellyfish
+Isaac Newton
 island
-issue
-item
-Items
+Ivory
+Jack Rose
+Jack russel
+Jack the Bulldog - Georgetown University
 Jackal
 jacket
+Jade
+Jager Bomb
 Jaguar
-Jay
+Japanese chin
+Japanese macaque
+Jasmine (Aladdin)
+Jayz
+Jazzy Gabert
+JBL
 Jeans
+Jeep
+Jeff Hardy
 Jelly
 Jellyfish
+Jerry "The King" Lawler
+Jerry (Tom and Jerry)
+Jessica Jones
 Jigsaw
-job
+Jigsaw (Saw Movie)
+Jill Valentine (Resident Evil)
+Jim Acosta
+Jim Cornette
+Jim Ross
+Jimmy Neutron
+Joe Bruin - University of California, Los Angeles
+Joe Bruin - University of California, Los Angeles (UCLA)
+Joe Vandal - University of Idaho
+Joel and Ellie (The Last of Us)
+John Cena
+Johnny Bravo
 joint
 joke
+Joy and Lady Luck - University of Nevada, Las Vegas
 judge
+Judge Dredd
 judgment
 juice
+Julius Caesar
 jump
 Jumpsuit
 Junglefowl
-junior
-jury
+Kaa (The Jungle Book)
+Kairi Sane
+Kamikaze
+Kane
 Kangaroo
 Kangaroo mouse
 Kangaroo rat
+Kasey the Kangaroo - Austin Peay State University
+Katniss Everdeen (The Hunger Games: Mockingjay Part 1 and 2)
 Kayak
+Keel billed toucan
 Kelp
+Kenny Omega
+Kentrosaurus
 Ketchup
-key
+Kevin Owens
+Key
 kick
 kid
-kill
+Killer whale
 kind
 Kinetic-Sand
 king
+King crab
+King Louie (The Jungle Book)
+King of Hell
+King penguin
 Kingfisher
 kiss
 kitchen
 Kite
 Kiwi
-knee
 Knickknack
 knife
+Knightro - University of Central Florida
 knowledge
 Koala
 Kobe Bryant
 Koi
 Komodo dragon
-Koosh
 Koosh Ball
+Kratos (God of War)
 Krill
+Kristoff (Frozen)
+Kudu
+Kurt Angle
 La Llorona
 lab
 Lab rat
 laboratory rat strains
+Labradoodle
+Labrador retriever
 Laccaria-Amethystina
 lack
 Lactarius-Indigo
 ladder
 lady
+Lady and the Tramp
 Ladybug
 lake
 Lamp
@@ -1390,222 +1367,254 @@ land
 Land snail
 Landfowl
 landscape
-language
 Laptop
-Lark
+Lara Croft (Tomb Raider)
 LaserDisc
 Latticed-Stinkhorn
-laugh
 law
 lawyer
-lay
-layer
-lead
-leader
-leadership
-leading
+Leaf tailed gecko
 league
 leather
-leave
 Leaves
 lecture
 Leech
 leg
+Lego
 Lego-Mindstorms
-Lego-Mindstorms-NXT
 Lemming
+Lemon Drop
 Lemur
 length
-Lens
-Leonardo DiCaprio
+Lenny the Lion - Penn State University
+Leon S Kennedy (Resident Evil)
+Leonardo da Vinci
 Leopard
+Leopard seal
+Leopard tortoise
 Leopon
-lesson
-let
 letter
 level
+Lex Luger
 library
-lie
 life
 lift
 Lift truck
+Liger
 light
 Light rail
+Lightning McQueen (Cars)
+Lil Wayne
 Lilac
 Lily Pads
 Limousine
 Limpet
 Lincoln-Logs
-line
-link
+Link (The Legend of Zelda)
 Lion
+Lionfish
 lip
 Lipstick
-list
+Lisa Simpson
 listen
+Lita
 Lite-Brite
-literature
+Little penguin
 living
 Lizard
 Llama
-load
-loan
 Lobster
-local
-location
 Loch Ness Monster
 lock
+Lockjaw
 Locust
 log
 Lollipop
-long
+Long eared owl
+Long Island Iced Tea
 look
 Loon
+Lotion
 Louse
 love
 low
 luck
+Luke Cage
 lunch
 Lungfish
 Luxury car
 Lynx
+Lystrosaurus
 Macaroni
+Macaroni penguin
 Macaw
-machine
+Macho Man Randy Savage
 Mackerel
 Made of Bread
+Madonna
 Madrepora-Oculata
 magazine
+Magellanic penguin
+Magic Mushroom
 Magpie
+Mahatma Gandhi
+Mai Tai
+Maiasaura
 mail
-main
-maintenance
+Maine coon
 major
-make
+Makeup
+Malayan tiger
 male
 mall
+Maltese
+Mamenchisaurus
 Mamlambo
 Mammal
 man
-management
 manager
 Manatee
 Mandrill
 Mango
-manner
+Manhattan
 Manta ray
 Mantis Shrimp
-manufacturer
-many
 map
 Maple Syrup
 Marasmius-Haematocephalus
 Marbles
-march
 Marconi and Cheese
+Marcus Fenix (Gears of War)
+Marcus Holloway (Watch Dogs)
 Margarine
-mark
-Mark Zuckerberg
+Margarita
+Marge Simpson
+Maria Kanellis
+Marine toad
+Mario (Super Mario Bros)
 market
-marketing
+Markhor
 Marlin
 Marmoset
 Marmot
 marriage
+Marsh frog
 Marsupial
 Marten
+Martian Manhunter
+Martini
+Marvin the Martian
 Marzipan
+Mascara
+Masha (Masha and the Bear)
 master
+Master Chief (Halo)
+Mastiff
 Mastodon
-match
-mate
-material
-math
+Mater (Cars)
+Matt Hardy
 matter
+Mauro Ranallo
 maximum
 maybe
+Mayfly
 Mayonnaise
 Maze
 Meadowlark
-meal
-meaning
-measurement
+Mean Gene Okerlund
 meat
 media
 medicine
 medium
+Medusa
 Meerkat
-meet
-meeting
 Megablocks
-member
-membership
-memory
-mention
-menu
-mess
-message
 metal
 method
-middle
+Michael Cole
+Michael Jackson
+Michelangelo
+Michelangelo (Teanage Mutant Ninja Turtles)
+Mick Foley
+Mickey Mouse
+Microraptor
 midnight
-might
-milk
-mind
-mine
-minimum
+Midori Sour
+Mike the Tiger - Louisiana State University
+Mike the Tiger - Louisiana State University (LSU)
+Miles Morales
+Millipede
+Mimosa
+Minions (Despicable Me)
 Mink
+Minke whale
 Minnow
-minor
 Minotaur
-minute
-mirror
-miss
-mission
-mistake
-Mite
+Mirror
+Mister Fantastic
 Mitochondria
 Mitosis
-mix
-mixture
+Moana
 mobile
 Mockingbird
 model
 Modeling Chocolate
+Moe the Kangaroo - University of Missouri-Kansas City
+Mojito
 Moldy
 Mole
 Molecular Gastronomy
 Mollusk
+Molly
 mom
 moment
 money
 Mongoose
-monitor
 Monitor lizard
 Monkey
 Monorail
-month
+Monte - University of Montana
+Monte the Grizzly Bear - University of Montana
+Monty the Mountaineer - West Virginia University
 mood
+Moon Knight
+Moorhen
 Moose
+Mop
 Moped
+Moray eel
 morning
 mortgage
+Morty the Mustang - Cal Poly San Luis Obispo
+Mosasaurus
+Moscow Mule
 Mosquito
 Moss
-most
 Moth
 mother
+Mother Teresa
 Mothman
 motor
 Motorcycle
 mountain
 Mountain goat
+Mountain gorilla
+Mountain lion
 Mouse
 mouth
-move
 movie
-mud
+Mozart
+Mr and Mrs Wuf - North Carolina State University
+Mr Incredible (The Incredibles
+Mr Krabs (Spongebob)
+Mr Miracle
+Ms Marvel (Kamala Khan)
+Mudslide
+Mug
+Mulan
 Mule
+Mulled Wine
+Mummy
 muscle
 Mushroom
 Mushrooms
@@ -1614,120 +1623,107 @@ Muskox
 Mustard
 Mycelium
 Mycena Acicula
-Nail
-name
+Nail clippers
+Nail polish
 Nanoparticle
+Naomi
+Naruto Uzumaki
 Narwhal
 nasty
-nation
-national
-native
-natural
-nature
+Nathan Drake (Uncharted)
+Natorious BIG
+Neapolitan mastiff
 neat
-necessary
 neck
+Necklace
 Needle
-negative
-nerve
+Negroni
+Nemo (Finding Nemo)
 net
-network
-New World quail
-news
+Newfoundland
 newspaper
 Newt
 Newtons-Cradle
+Nia Jax
+Nick Fury
 Nick-Nack
+Nigel McGuinness
 night
 Nightcrawler
 Nightingale
-nobody
-noise
-Nonpareils
-normal
-north
+Nightwing
+Nikki Bella
+Niko Bellic (Grand Theft Auto IV)
+Nikola Tesla
+Nite Owl
+Nodosaurus
+Norfolk terrier
+Norwegian forest
 nose
-note
-nothing
-notice
-novel
-number
+Numbat
 nurse
-Object
-objective
-occasion
+Nurse shark
 Ocelot
 Octopus
-offer
-office
+Oddjob (Goldeneye)
 officer
-official
 oil
+Okapi
+Olaf (Frozen)
+Old english sheepdog
+Old Fashioned
 Old World quail
 Olive Oil
-one
-opening
-operation
-opinion
 Opossum
-opportunity
-opposite
-option
+Optimus Prime (Transformers)
 orange
 Orangutan
 Orca
-order
-ordinary
-organization
 original
+Ornithomimus
 Ostrich
 other
 Otter
-outcome
 Outfit
 outside
 oven
+Oviraptor
 Owl
 Ox
-pack
+Oyster
+Ozymandias
+Pablo Picasso
+Pachycephalosaurus
 package
-page
-pain
-paint
-painting
+Pac-Man
+Pademelon
+Pads
+Paige
+Painkiller
 pair
 Panda
 panic
 Panther
 Panthera hybrid
-paper
 Paper Clips
+Paper towels
 Parachute
 Parakeet
+Parasaurolophus
 parent
-park
-parking
 Parrot
 Parrotfish
-part
-particular
-partner
 Partridge
 party
-pass
-passage
 passenger
-passion
-past
 Pasta Sauce
+Pat Patterson
 path
-patience
-patient
+Patrick Star (SpongeBob SquarePants)
 Patrol boat
 pattern
-pause
-pay
-payment
+Paul Heyman
+Paydirt Pete - University of Texas at El Paso
 peace
 Peacock
 Peafowl
@@ -1736,27 +1732,28 @@ Peanut
 Peanut Butter
 Pedal boat
 Pegasus
+Pekingese
 Pelican
-pen
+Pen
 penalty
 Penguin
-pension
 people
-percentage
+Peppa Pig
 Perch
 Peregrine falcon
-performance
-period
-permission
+Perfume
 permit
+Persian
 person
-personal
-personality
-perspective
+Peruna - Southern Methodist University
+Pete the Panther - University of Pittsburgh
+Peter Griffin
+Peter Pan
 phase
 Pheasant
 philosophy
-phone
+Phoenix
+Phone
 photo
 phrase
 Phyllo
@@ -1764,365 +1761,398 @@ physical
 physics
 Piano
 Pickup truck
-picture
 pie
-piece
 Pig
 Pigeon
 Pigeon breeds
+Pika
+Pikachu
+Pikachu (Pokemon)
 Pike
+Pillow
 Pilot whale
 pin
+Pina Colada
+Piña Colada
 Pinecone
+Pink Lady
+Pink Panther
+Pinky and the Brain
 Pinniped
+Pinocchio
 Pinwheel
 pipe
 Piranha
+Pirate Ship
+Pistol Pete - Oklahoma State University
 pitch
+Pixar Skeleton
+Pixar Style Bat
+Pixar Style Batman
+Pixar Style Beagle
+Pixar Style Bear
+Pixar Style Bird
+Pixar Style Bunny
+Pixar Style Cat
+Pixar Style Chicken
+Pixar Style Cow
+Pixar Style Deer
+Pixar Style Dog
+Pixar Style Dragon
+Pixar Style Elephant
+Pixar Style English Bulldog
+Pixar Style Frog
+Pixar Style Goat
+Pixar Style Horse
+Pixar Style Husky
+Pixar Style Iguana
+Pixar Style Kangaroo
+Pixar Style Minotaur
+Pixar Style Mummy
+Pixar Style Old Man
+Pixar Style Old Woman
+Pixar Style Owl
+Pixar Style Penguin
+Pixar Style Pug
+Pixar Style Raccoon
+Pixar Style Sheep 
+Pixar Style Shiba Inu
+Pixar Style Snail
+Pixar Style Super Model
+Pixar Style Turtle
+Pixar Style Wolf
 Pizza
 place
-plan
 Planarian
 plane
 Plant
 Plants
 plastic
-plate
-platform
+Plastic Man
+Plate
+Plateosaurus
+Plato
 Platypus
 play
 player
-pleasure
-plenty
+Plesiosaurus
+Po (Kung Fu Panda)
+Pocahontas
 poem
 poet
-poetry
-point
-Polar Bear
+Pointer
+Poison dart frog
+poisonous animal
+Polar bear
 police
 Police car
-policy
 politics
-pollution
 Polo
+Pond skater
 Pony
 Poodle
 pool
+Pool frog
 pop
-population
+Popeye
 Porcupine
 Porpoise
+Porshe 911
 Portuguese man o' war
-position
-positive
-possible
 Possum
 post
 pot
 potato
-potential
 pound
-power
-practice
 Prairie dog
 Prawn
 Praying mantis
-preparation
-present
-presentation
 president
 press
-pressure
 Pretzel
-price
-pride
 priest
-primary
 Primate
+Prince
+Prince that turned into a warlock
+Princess Zelda
 principle
 print
-prior
-priority
 private
 Private jet
 prize
-problem
+Proboscis monkey
 process
 produce
-product
-professional
-professor
-profile
-profit
-program
-progress
-project
-promise
-promotion
-prompt
-proof
-property
-proposal
-protection
+Prosecco
 Pseudodiploria-Strigosa
 psychology
 Ptarmigan
-public
+Pteranodon
+Puddles the Duck - University of Oregon
+Puffer fish
 Puffin
 Puff-Pastry
-pull
+Pug
 Puma
 punch
-purchase
+Punisher
 purple
-purpose
-push
-put
+Purple emperor
+Purse
+Puss moth
 Puzzle
+Pygmy hippopotamus
+Pygmy marmoset
 Python
 Quadricycle
 Quail
-quantity
 quarter
 queen
+Queen of Hell
 Quelea
-question
-quiet
-quit
+Quetzal
+Quetzalcoatlus
 Quokka
-quote
 Rabbit
 Raccoon
+Raccoon dog
 race
 radio
+Ragdoll
+Raider Red - Texas Tech University
 rain
 Rainbow trout
-range
+Ralphie the Buffalo - University of Colorado Boulder
+Ram 1500
+Randy Orton
+Rapper
+Raptor
+Rapunzel
+Rapunzel (Tangled)
 Rat
-rate
-ratio
 Rattlesnake
 Raven
-raw
-Ray (Batoidea)
-Ray (Rajiformes)
-reach
-read
-reading
-reality
-reason
-reception
-recipe
-recognition
-recommendation
-record
-recording
-recover
-red
+Razor
+Razor blade
 Red Fox
+Red handed tamarin
+Red knee tarantula
 Red panda
+Red Tornado
+Red wolf
+Redfoo from LMFAO
 Red-Wine
-reference
 reflection
 refrigerator
-refuse
-register
-regret
-regular
 Reindeer
-relation
-relationship
-relative
-remote
-remove
-rent
-repair
-replacement
-reply
-report
+Rembrandt
+Remy (Ratatouille)
+Ren and Stimpy
+Renee Young
 Reptile
-republic
-reputation
-request
-requirement
 resident
-resist
-resolution
-resolve
-resort
-resource
 respect
-respond
-responsibility
-rest
 restaurant
-result
-return
-reveal
-revenue
-review
 revolution
-reward
+Rey Mysterio
+Rhino
 Rhinoceros
 Ribbons
+Ric Flair
 rice
 rich
+Rick and Morty
+Rick Steiner
 Ricordea
 ride
 Right whale
-ring
-Ringneck dove
-rip
-rise
-risk
+Ring
 river
+River dolphin
+River turtle
 road
-Roadrunner
+Road Runner
+Roary the Lion - Columbia University
+Rob Van Dam
+Robin
 Robot
+Robot from Boston Dynamics
 rock
+Rock hyrax
+Rockhopper penguin
+Rocky the Bull - University of South Florida
 Rodent
-role
+Roger Klotz (Doug)
+Roger Rabbit
+Roger Smith (American Dad)
 roll
+Roman Reigns
+Ronda Rousey
 roof
 Rook
 room
 Rooster
 rope
+Rorschach
 Rose
-rough
+Roseate spoonbill
+Rottweiler
 round
 Roundworm
-routine
 row
 Rowboat
 royal
 Royal Icing
-rub
 Rubber Band
 Rubber Band Ball
 Rubik's Cube
+Rufus the Bobcat - Ohio University
+Rug
 ruin
-rule
-run
-rush
+Rum Punch
+Russian blue
+Rusty Nail
+Ryu (Street Fighter)
 Saber-toothed cat
-sad
+Sable
 safe
 sail
 Sailboat
 Sailfish
+Saint bernard
 salad
 Salamander
-salary
-sale
 Salmon
 salt
-sample
+Salty Dog
+Salvador Dali
+Sami Zayn
+Sammy the Slug - University of California, Santa Cruz
 sand
+Sand lizard
 sandwich
 Sandworm
-Sapling
+Sandy Cheeks (SpongeBob SquarePants)
+Sangria
+Sasha Banks
 Sauce
-save
-savings
 Sawfish
 Saxophone
+Sazerac
 scale
 Scale insect
 Scallop
-scene
-schedule
-scheme
+Scarf
+Scarlet Witch
 school
 School bus
 science
+Scissors
+Scooby-Doo
 Scooter
-score
 Scorpion
-scratch
-screen
+Scorpion fish
+Scott Steiner
+Scrappy the Owl - Kennesaw State University
 Screw
+Screwdriver
 script
 sea
 Sea Anemone
+Sea Breeze
 Sea lion
+Sea otter
 Sea slug
 Sea snail
+Sea squirt
+Sea turtle
 Sea Urchin
+Seagull
 Seahorse
+Seal
 Sealife
-search
 Seashell
-season
 seat
 Seaweed
-second
+Sebastian the Ibis - University of Miami
 secret
 secretary
 section
 sector
 Sedan
 Segway
-self
+Seiya from Saint Seiya
 Self-balancing scooter
-sell
 Semi-truck
 senior
-sense
-sensitive
-sentence
-serve
-service
+Sentry
+Serval
 Service truck
-set
-sex
+Seth Rollins
+Sex on the Beach
 shake
-shame
+Shami (Shaun the Sheep)
+Shampoo
+Shane McMahon
 shape
-share
 Shark
+Shaving cream
+Shawn Michaels
+Shazam
 Sheep
 Sheep breeds
+sheepdog
+Sheets
+She-Hulk
 shelter
-shift
+She-Ra
+Shiba Inu
 Shih Tzu
 shine
+Shinigami
 ship
 shirt
 Shitzu
 shock
 Shoe
 Shoes
-shoot
-shop
 shopping
 Shortcrust-Pastry
 shot
 shoulder
-show
 shower
+Shrek
 Shrew
 Shrimp
+Siamese
 Siamese fighting fish
-sick
-side
+Siberian
+Siberian husky
+Siberian tiger
+Sidecar
 sign
 signal
 signature
+Silk
+Silk Spectre
 Silkworm
 silly
 Silly Band
 silver
+Silver Surfer
 Silverfish
-simple
+Simba (Lion King)
+Simba (The Lion King)
+Simba (The Lion King: The Series)
+Simpsons (Homer, Marge, Bart, Lisa, and Maggie)
 sing
+Singapore Sling
 singer
-single
 sink
 sir
 sister
 site
-situation
+Sith from Star Wars
 size
 Skateboard
 Skeleton
@@ -2130,113 +2160,132 @@ skill
 skin
 Skink
 Skinwalker
-skirt
+Skirt
 Skunk
 sky
 sleep
+Sleeping Beauty (Aurora)
 slice
 slide
 Slinky
 slip
+Slippery Nipple
 Sloth
+Slow worm
 Slug
 smell
 Smelt
 smile
 smoke
+Smokey - University of Tennessee
 Snail
 Snake
+Snapping turtle
 Snipe
 Snorlax
 snow
 Snow leopard
+Snow Miser (Year Without a Santa Claus)
+Snow White
+Snow White (Snow White and the Seven Dwarfs)
 Snowflake
 Snowmobile
 Snowplow
+Snowy owl
 Soap
-society
 Society finch
 sock
 Sockeye salmon
+Socks
+Socrates
 Soda
-soft
+Sofa
 software
-soil
-Sole
-solid
-somewhere
+Solid Snake (Metal Gear Solid)
 son
-song
-sort
-sound
+Sonic the Hedgehog
 soup
-Sour Cream
-source
-south
-space
+Spaceship
 Spaghetti
-spare
+Sparky the Sun Devil - Arizona State University
 Sparrow
-speaker
-special
-specialist
+Sparty - Michigan State University
+Spawn
 specific
-speech
+Spectacled bear
 speed
 Speedboat
+Speedy Gonzales
 spell
 spend
 Sperm whale
 Spider
 Spider monkey
+Spider-Man
+Spider-Woman
+Spike the Bulldog - Gonzaga University
+Spinosaurus
 spirit
 spiritual
 spite
 split
+Sponge
+SpongeBob SquarePants
+SpongeBob SquarePants' best friend, Patrick Star
+SpongeBob's friend Sandy Cheeks
+SpongeBob's pet snail Gary
 Spoonbill
 sport
 Sport bike
 Sports car
 spot
 spray
-spread
 spring
 Sprinkles
 square
 Squid
+Squidward (SpongeBob SquarePants)
+Squidward Tentacles (SpongeBob SquarePants)
 Squirrel
+Squirrel Girl
+Squirrel monkey
+Sri lankan elephant
 stable
+Stacy Keibler
 staff
+Staffordshire bull terrier
+Stag beetle
 stage
 stand
-standard
 star
 Starfish
 Star-nosed mole
-start
-state
-statement
 station
-status
-stay
 steak
 steal
 Steelhead trout
+Stegosaurus
 step
+Stephanie McMahon
+Stewie Griffin
 stick
-still
+Stick insect
+Sting
 Stingray
+Stitch (Lilo & Stitch)
 Stoat
 stock
 stomach
-stop
+Stone Cold Steve Austin
 store
 Stork
 storm
+Storm (X-Men)
+Stormtrooper
+Stormy the Thunderbird - Southern Utah University
 story
 strain
 stranger
-strategy
 Straw
 Straw-Bale
 street
@@ -2248,10 +2297,7 @@ Stress Ball
 stretch
 strike
 string
-strip
 stroke
-structure
-struggle
 student
 studio
 study
@@ -2259,228 +2305,261 @@ Stuff
 stupid
 Sturgeon
 style
+Styracosaurus
 subject
 Submarine
-substance
-success
-suck
 sugar
 Sugar glider
-suggestion
-suit
+Suit
 summer
 sun
+Sun bear
 Sunglasses
+Sunscreen
+Super Frog - Texas Christian University
+Super Model
+SuperFrog - Texas Christian University
+Supergirl
+Superman
 supermarket
-support
-surprise
-surround
-survey
 suspect
 SUV
 Swallow
 Swan
-sweet
 Swift
 swim
 swimming
 swing
 switch
+Swoop - University of Utah
 Swordfish
 Swordtail
-sympathy
+Sylvester
 Syrup
 system
-table
-tackle
+Table
 Taffy
 Tahr
 Takin
-tale
-talk
 Tallow
+Tamina
+Tang
 Tangram
 tank
+Tank Girl
 Tank truck
-tap
 Tapir
 Tarantula
 target
 Tarsier
-task
 Tasmanian devil
-taste
-tax
+Tawny owl
 Taxi
-Taylor Swift
-Tchotchke
+Taz
+Taz (Looney Tunes)
+Tazz
 Tea
 teach
 teacher
-teaching
 team
 tear
 technology
 telephone
-television
-tell
-temperature
+Television
 Tendrils
 tennis
-tension
+Tequila Sunrise
 term
 Termite
-Tern
 Tesla Valve
-test
-text
-theme
-theory
-thing
-Things
-Thrush
+Testudo - University of Maryland
+Tetra
+Thanos
+The Atom
+The Bear (Masha and the Bear)
+The Beatles
+The Bird - University of California, San Diego
+The Blue Devil - Duke University
+The Blue Hen - University of Delaware
+The Buffalo - University of Colorado, Denver
+The Care Bears
+The Colonel - Centre College
+The Demon Deacon - Wake Forest University
+The Fighting Illini - University of Illinois
+The Fighting Irish - University of Notre Dame
+The Fighting Okra - Delta State University
+The Flintstones (Fred, Barney, Wilma, and Betty)
+The Gorilla - Pittsburg State University
+The Gremlins
+The Grinch
+The Jetsons (George, Jane, Elroy, and Judy)
+The Leprechaun - University of Notre Dame
+The Lion King (Simba)
+The Little Mermaid (Ariel)
+The Lumberjack - Stephen F Austin State University
+The Martian Manhunter
+The Mask
+The Masked Rider - Texas Tech University
+The Phantom
+The Pink Panther
+The Powerpuff Girls (Blossom, Bubbles, and Buttercup)
+The Powerpuff Girls (Blossom, Bubbles, Buttercup)
+The Road Runner
+The Rock
+The Rocketeer
+The Rugrats (Tommy, Chuckie, Phil, Lil, and Angelica)
+The Shadow
+The Simpsons (as a family)
+The Simpsons (Bart, Lisa, and Maggie)
+The Spectre
+The Spirit
+The Thing
+The Thundercats
+The Tick
+The Ultimate Warrior
+The Undertaker
+The Wasp
+The Young Bucks
+Thomas the Tank Engine
+Thor
+Thorny devil
+Tiana (Princess and the Frog)
+Tibetan mastiff
 Tick
 ticket
 tie
 Tiger
 Tiger shark
 Tiglon
-till
-time
+Timmy Turner (Fairly OddParents)
+Timon and Pumbaa (Lion King)
 Tincture
+Tinker Bell (Peter Pan)
 tip
+Tissues
 title
 Toad
-today
 toe
 Toilet
-tomorrow
-tone
+Toilet paper
+Tom and Jerry
+Tom Collins
+Tommy Dreamer
+Tommy Vercetti (Grand Theft Auto: Vice City)
 tongue
-tonight
+Tony Schiavone
 tool
 tooth
+Toothbrush
 Toothpaste
-top
-topic
+Torrie Wilson
 Tortoise
-total
+Tote bag
 Toucan
-touch
-tough
-tour
 Tour bus
 Touring bike
-tourist
-towel
+Towel
 tower
 town
 Toy
 track
-trade
-tradition
 traffic
 train
-trainer
-training
+transformers, decepticon
 Transistor
-transition
-transportation
 Trapdoor spider
-trash
-travel
-treat
+Trash can
 tree
 Tree Bark
 Tree frog
 Tremella-Fuciformis
 Tremella-Mesenterica
+Tribal Warrior Woman
+Tribal Warrior Woman, porcelaine skin, black long hair, detailed hair, Godess of the vikings
+Triceratops
 trick
 Tricycle
 Trinket
 trip
+Triple H
+Trish Stratus
+Triton
 Trolley bus
-trouble
+Troodon
+Tropicbird
 Trout
 truck
-trust
-truth
-try
-Tubastraea-Faulkneri
+Truman the Tiger - University of Missouri
+T-shirt
+Tuatara
 Tulip
 Tuna
-tune
+Tupac Shakur
 Turkey
 Turkey breeds
-turn
+Turkish angora
 Turtle
 Tuxedo
-twist
-type
+Tweety Bird
 Tyrannosaurus
+Tyrannosaurus rex
+Umbrella
 uncle
-understanding
+Underwear
 Unicycle
 Uniform
-union
-unique
 university
-upper
-upstairs
-use
-user
-usual
+Utahraptor
 Utility task vehicle
 vacation
-valuable
-value
+Vacuum cleaner
 Vampire bat
 Vampire squid
 Van
-variation
-vast
+Vase
 Vegetable
-Vegetable Oil
 vehicle
 Veins
-Vicuna
+Velociraptor
+Vervet monkey
+Victor E Bull - University of Buffalo
 video
 Videocasette
-view
 village
+Vince McMahon
 Vines
 Vinyl Record
 Viper
 virus
-visit
-voice
+Vision
+Vixen
+Vodka Martini
 Vole
-volume
 Vulture
 Wagon
 Wagyu
 walk
 Wallaby
+Wall-E
 Walrus
 war
 Warbler
+Warlock
 warning
-wash
+Warthog
+Warthog (Halo)
 Wasp
-watch
+Watch
+Watchmen
 water
 Water Boa
 Water buffalo
 Water buffalo breeds
+Water dragon
 Water Lilies
+Water vole
 wave
-way
-weakness
-wealth
-wear
 Wearable
-Wearing Glasses
-Wearing Sunglasses
 Weasel
 weather
 web
@@ -2488,71 +2567,85 @@ wedding
 Wedding Cake
 weekend
 weight
-weird
-welcome
+Welsh corgi
 Wendigo
-west
-western
+West highland terrier
+Western gorilla
 Whale
+Whale shark
 Wheat
 wheel
-whereas
-while
 Whipped Cream
 Whippet
+Whiskey Sour
 white
+White Lady
+White rhino
+White Russian
+White tiger
 Whitefish
 White-Wine
-whole
 Whooping crane
 wife
+Wild boar
 Wildcat
 Wildebeest
 Wildfowl
-will
-win
+Wile E coyote
+William Shakespeare
+Willie the Wildcat - Northwestern University
 wind
 window
 Wine
+Wine Spritzer
 wing
-winner
+Winnie the Pooh
+Winnie-the-Pooh's friends (Tigger, Piglet, Eeyore, and Rabbit)
 winter
+Winter Soldier
 Wires
-wish
-witness
+Witch
 Wolf
 Wolverine
 woman
 Wombat
 wonder
+Wonder Woman
 wood
+Wood 2"x4"
+Woodlouse
 Woodpecker
-word
-work
+Woodstock (Peanuts)
+Woody (Toy Story)
+Woody Woodpecker
 worker
-working
 world
 Worm
 Worms
-worry
-worth
-wrap
+Wrasse
 Wren
 writer
+Wuerhosaurus
 Xerinae
 X-ray fish
 Yacht
 Yak
+Yakko, Wakko, and Dot (the Animaniacs)
+Yangchuanosaurus
 yard
 Yardstick
 yellow
 Yellow perch
-you
-young
-youth
+Yorkshire terrier
+YoUDee - University of Delaware
+Yutyrannus
+Zatanna
 Zebra
 Zebra finch
 Zebrafish
+Zebu
 Zoanthid
-zone
+Zombie
+Zonkey
 Zorb
+Zuniceratops
