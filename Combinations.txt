@@ -1,5 +1,43 @@
+Adventurous
+Athletic
+Average
+Baby
+Beautiful
+Big-bottomed
+Bony
+Brave
+Brawny
+Buff
+Charming
+Chubby
 Colorful, Sci-Fi, Otherworldly, Realistic
+Confident
+Corpulent
+Crazy
+Cuddly
+Curvy
+Cut
+Daring
+Dark
+Delicate
+Dependable
+Distracted
 Dreamlike, Realistic
+Dreamy
+Elegant
+Energetic
+Enlightened
+Enthusiastic
+Fat
+Fearless
+Fierce
+Flirty
+Full-figured
+Funny
+Geek
+Gentle
+Giddy
+Glamorous
 Glowing Amethyst Pearlescent
 Glowing Citrine Pearlescent
 Glowing Emerald Pearlescent
@@ -8,9 +46,100 @@ Glowing Opal Pearlescent
 Glowing Quartz Pearlescent
 Glowing Ruby Pearlescent
 Glowing Sapphire Pearlescent
+Gorgeous
+Graceful
+Groggy
+Handsome
+Happy
+Healthy
+Healthy weight
+Heavy
+Hilarious
+Hourglass
+Independent
+Innocent
+Intelligent
+Intense
+Jacked
+Jolly
+Joyful
+Kind
+Large-busted
+Lazy
+Lean
+Lean-and-mean
+Lively
+Lonely
+Loving
+Luxurious
+Medium-built
+Middle Aged
+Mischievous
+Moderate
+Moody
+Muscle-bound
+Muscular
+Nerd
+Nervous
+Normal weight
+Nostalgic
+Obese
 Octane Render, 4k, Hyperrealistic
+Old
+Optimistic
+Overweight
+Peaceful
+Pear-shaped
+Petite
+Playful
+Pleasant
+Plump
+Powerful
+Proud
+Pudgy
+Quiet
+Radiant
+Rebellious
+Relaxed
+Ripped
+Romantic
+Round
+Rowdy
+Sad
+Sassy
+Scrawny
+Sculpted
+Sensitive
+Sensual
+Serious
+Shy
+Silly
+Skinny
+Skinny-fat
+Sleepy
+Slender
+Small-framed
+Sneaky
+Soft
+Soothing
+Sophisticated
+Spontaneous
+Stocky
+Stoic
+Strong
+Stylish
+Sultry
 Synesthesia, Otherworldly, Mystical
+Tender
+Thin
+Thrilling
+Tired
+Toned
+Tough
 Ultrarealistic, Photorealistic, Octane Render, 8k, Intricate Detail
+Underweight
+Unpredictable
+Vibrant
 Vibrant Amethyst Pearlescent
 Vibrant Citrine Pearlescent
 Vibrant Emerald Pearlescent
@@ -19,3 +148,18 @@ Vibrant Opal Pearlescent
 Vibrant Quartz Pearlescent
 Vibrant Ruby Pearlescent
 Vibrant Sapphire Pearlescent
+Vivacious
+Voluptuous
+Wacky
+Warm
+Weak
+Wealthy
+Well-proportioned
+Wiry
+Witty
+Wondrous
+Worry-free
+Yearning
+Young
+Youthful
+Zealous
