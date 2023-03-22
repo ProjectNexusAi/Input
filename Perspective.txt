@@ -11,28 +11,14 @@ First-Person View
 Forced Perspective
 High Angle
 Isometric
-Linear Perspective
+Linear
 Low Angle
 Miniature Faking
 Orthographic
 Panini Projection
-Perspective
+
 Selfie
 Side-View
 Third-Person
 Third-Person View
 Top-View
-View From an Airplane
-
-
-
-
-
-
-
-
-
-
-
-
-
