@@ -1,3 +1,34 @@
+10 Megapixels
+1000x Magnification
+1000x Magnification 
+100mm Lens
+100mm Lens 
+100x Magnification
+1080p
+12 Megapixels
+12 Megapixels 
+12-bit
+12-bit RGB
+144p
+15mm Lens
+15mm Lens 
+16 Megapixels
+16-bit
+16-bit RGB
+16k
+1-bit
+2 Megapixels
+2 Megapixels 
+20 Megapixels
+200mm Lens
+200mm Lens 
+200x Magnification
+200x Magnification 
+22 Megapixels
+22 Megapixels 
+240p
+2-bit
+2x2-Bayer-Matrix Dithering
 32k
 35mm
 35mm 
